@@ -1,0 +1,266 @@
+City,Zip Code,S.B. Zip, Sepctrum Business, Comcast Business, AT&T Business 
+Barnet,05001,"05033,",32% available,99% available,No Service
+Barre,05009,"05038,",16% available,No Service,No Service
+Bradford,05030,"05042,", 24% available,99% available,No Service
+Burlington,05031,"05050,", 42% available in 05050,No Service,No Service
+Cabot,05032,"05051,",17% available ,77% available,No Service
+Chelsea,05033,"05068,",22% available,No Service,No Service
+Concord,05034,"05069,",21% available,99% available,No Service
+Danville,05035,"05081,",26% available,99% available,No Service
+East Barre,05036,"05641,",56% available ,No Service,No Service
+East Burke,05037,"05647,",17% available,99% available,No Service
+East Montpelier,05038,"05649,",38% available,No Service,No Service
+East Ryegate,05039,"05654,",58% available ,No Service,No Service
+Graniteville,05040,"05658,",16% available ,No Service,No Service
+Groton,05041,"05667,",24% available, 99% available,No Service
+Lyndon,05042,"05670,", 38% available in 05670,No Service,No Service
+Lyndonville,05043,"05675,", 22% available,99% available ,No Service
+Marshfield,05045,"05678,", 28% available in 05678,61% available,No Service
+Mc Indoe Falls,05046,"05679,",37% available,No Service,No Service
+Newbury,05048,"05819,", 50% available in 05819,99% available,No Service
+North Concord,05050,"05821,",18% available,No Service,No Service
+Passumpsic,05051,"05824,",19% available,No Service,No Service
+Peacham,05052,"05828,",26% available,99% available,No Service
+Plainfield,05053,"05832,",30% available in,99% available,No Service
+Ryegate,05055,"05850,",36% available,99% available,No Service
+Saint Johnsbury,05056,"05851,",41% available,99% available,No Service
+Sheffield,05058,"05861,", 56% available in 05861,99% available,No Service
+South Barre,05059,"05862,",18% available,99% available,No Service
+South Royalton,05060,"05866,", 15% available in 05866,99% available,No Service
+South Ryegate,05061,"05873,",20% available,70% available,No Service
+Sutton,05062,,No Service,99% available,No Service
+Tunbridge,05065,,No Service,No Service,No Service
+Washington,05067,,No Service,99% available,No Service
+Websterville,05068,,No Service,69% available,No Service
+Wells River,05069,,No Service,No Service,No Service
+West Burke,05070,,No Service,No Service,No Service
+West Danville,05071,,No Service,99% available,No Service
+Williamstown,05072,,No Service,No Service,No Service
+,05073,,No Service,99% available,No Service
+,05075,,No Service,58% available,No Service
+,05076,,No Service,No Service,No Service
+,05077,,No Service,No Service,No Service
+,05079,,No Service,No Service,No Service
+,05081,,No Service,No Service,No Service
+,05083,,No Service,No Service,No Service
+,05084,,No Service,99% available,No Service
+,05086,,No Service,No Service,No Service
+,05088,,No Service,99% available,No Service
+,05089,,No Service,99% available,No Service
+,05091,,No Service,99% available,No Service
+,05101,,No Service,99% available,No Service
+,05141,,No Service,No Service,No Service
+,05142,,No Service,99% available ,No Service
+,05143,,No Service,99% available,No Service
+,05146,,No Service,99% available,No Service
+,05148,,No Service,99% available ,No Service
+,05149,,No Service,99% available,No Service
+,05150,,No Service,99% available,No Service
+,05151,,No Service,99% available,No Service
+,05152,,No Service,99% available,No Service
+,05153,,No Service,99% available,No Service
+,05154,,No Service,99% available,No Service
+,05155,,No Service,99% available,No Service
+,05156,,No Service,99% available,No Service
+,05158,,No Service, 99% available,No Service
+,05161,,No Service, 99% available,No Service
+,05201,,No Service, 99% available,No Service
+,05250,,No Service,99% available,No Service
+,05251,,No Service,99% available,No Service
+,05252,,No Service, 99% available,No Service
+,05253,,No Service,99% available,No Service
+,05254,,No Service,99% available,No Service
+,05255,,No Service,99% available ,No Service
+,05257,,No Service,99% available,No Service
+,05260,,No Service,99% available ,No Service
+,05261,,No Service,99% available,No Service
+,05262,,No Service,99% available ,No Service
+,05301,,No Service,92% available,No Service
+,05340,,No Service,99% available,No Service
+,05341,,No Service,No Service,No Service
+,05342,,No Service,No Service,No Service
+,05343,,No Service,No Service,No Service
+,05344,,No Service,No Service,No Service
+,05345,,No Service,99% available ,No Service
+,05346,,No Service,99% available,No Service
+,05350,,No Service,No Service,No Service
+,05351,,No Service,No Service,No Service
+,05352,,No Service,No Service,No Service
+,05353,,No Service,No Service,No Service
+,05354,,No Service,99% available ,No Service
+,05355,,No Service,No Service,No Service
+,05356,,No Service,No Service,No Service
+,05358,,No Service,No Service,No Service
+,05359,,No Service,No Service,No Service
+,05360,,No Service,99% available,No Service
+,05361,,No Service,No Service,No Service
+,05362,,No Service,No Service,No Service
+,05363,,No Service,No Service,No Service
+,05401,,No Service,99% available,No Service
+,05403,,No Service,99% available,No Service
+,05404,,No Service, 99% available ,No Service
+,05405,,No Service,99% available ,No Service
+,05408,,No Service, 99% available,No Service
+,05439,,No Service, 99% available,No Service
+,05440,,No Service, 99% available,No Service
+,05441,,No Service, 99% available,No Service
+,05442,,No Service,No Service,No Service
+,05443,,No Service,99% available ,No Service
+,05444,,No Service,99% available,No Service
+,05445,,No Service, 99% available,No Service
+,05446,,No Service,99% available ,No Service
+,05447,,No Service,99% available ,No Service
+,05448,,No Service,99% available,No Service
+,05450,,No Service, 99% available,No Service
+,05452,,No Service,99% available ,No Service
+,05454,,No Service,99% available ,No Service
+,05455,,No Service,99% available ,No Service
+,05456,,No Service,99% available,No Service
+,05457,,No Service, 99% available,No Service
+,05458,,No Service,99% available,No Service
+,05459,,No Service, 99% available,No Service
+,05461,,No Service,99% available,No Service
+,05462,,No Service,99% available,No Service
+,05463,,No Service,No Service,No Service
+,05464,,No Service,99% available ,No Service
+,05465,,No Service,99% available,No Service
+,05468,,No Service,99% available,No Service
+,05471,,No Service,99% available ,No Service
+,05472,,No Service, 99% available,No Service
+,05473,,No Service,99% available,No Service
+,05474,,No Service, 99% available,No Service
+,05476,,No Service,99% available ,No Service
+,05477,,No Service,99% available,No Service
+,05478,,No Service,99% available,No Service
+,05481,,No Service,No Service,No Service
+,05482,,No Service,99% available,No Service
+,05483,,No Service,99% available,No Service
+,05485,,No Service,No Service,No Service
+,05486,,No Service,99% available,No Service
+,05487,,No Service,99% available,No Service
+,05488,,No Service,99% available ,No Service
+,05489,,No Service,99% available,No Service
+,05491,,No Service,73% available ,No Service
+,05492,,No Service,99% available,No Service
+,05494,,No Service,99% available,No Service
+,05495,,No Service, 99% available ,No Service
+,05602,,No Service,99% available,No Service
+,05640,,No Service,No Service,No Service
+,05641,,No Service,70% available,No Service
+,05647,,No Service,No Service,No Service
+,05648,,No Service,99% available,No Service
+,05649,,No Service,No Service,No Service
+,05650,,No Service, 99% available,No Service
+,05651,,No Service,73% available,No Service
+,05652,,No Service,No Service,No Service
+,05653,,No Service,No Service,No Service
+,05654,,No Service,No Service,No Service
+,05655,,No Service,99% available,No Service
+,05656,,No Service,99% available,No Service
+,05658,,No Service,70% available,No Service
+,05660,,No Service, 87% available,No Service
+,05661,,No Service,99% available,No Service
+,05663,,No Service,78% available,No Service
+,05664,,No Service,No Service,No Service
+,05666,,No Service,No Service,No Service
+,05667,,No Service,70% available in,No Service
+,05669,,No Service,No Service,No Service
+,05670,,No Service,No Service,No Service
+,05672,,No Service,No Service,No Service
+,05673,,No Service,No Service,No Service
+,05674,,No Service,No Service,No Service
+,05675,,No Service,No Service,No Service
+,05676,,No Service, 99% available,No Service
+,05677,,No Service, 99% available,No Service
+,05678,,No Service,No Service,No Service
+,05679,,No Service,No Service,No Service
+,05680,,No Service,No Service,No Service
+,05681,,No Service,99% available,No Service
+,05682,,No Service,99% available ,No Service
+,05701,,No Service,99% available,No Service
+,05730,,No Service, 99% available,No Service
+,05731,,No Service,No Service,No Service
+,05732,,No Service, 99% available,No Service
+,05733,,No Service,73% available ,No Service
+,05734,,No Service,No Service,No Service
+,05735,,No Service,99% available,No Service
+,05736,,No Service,99% available,No Service
+,05737,,No Service,99% available ,No Service
+,05738,,No Service,99% available ,No Service
+,05739,,No Service,99% available,No Service
+,05742,,No Service,99% available ,No Service
+,05743,,No Service,99% available,No Service
+,05744,,No Service,99% available,No Service
+,05746,,No Service,No Service,No Service
+,05747,,No Service,No Service,No Service
+,05748,,No Service,No Service,No Service
+,05751,,No Service,99% available,No Service
+,05753,,No Service,72% available,No Service
+,05757,,No Service,99% available,No Service
+,05758,,No Service,99% available,No Service
+,05759,,No Service,99% available,No Service
+,05760,,No Service,No Service,No Service
+,05761,,No Service,99% available ,No Service
+,05762,,No Service,No Service,No Service
+,05763,,No Service,99% available ,No Service
+,05764,,No Service, 99% available ,No Service
+,05765,,No Service,99% available ,No Service
+,05766,,No Service,No Service,No Service
+,05767,,No Service,99% available,No Service
+,05768,,No Service,No Service,No Service
+,05769,,No Service,99% available,No Service
+,05770,,No Service,No Service,No Service
+,05772,,No Service,No Service,No Service
+,05773,,No Service, 99% available ,No Service
+,05774,,No Service,99% available,No Service
+,05775,,No Service,99% available,No Service
+,05776,,No Service,No Service,No Service
+,05777,,No Service,99% available,No Service
+,05778,,No Service,No Service,No Service
+,05819,,No Service,48% available ,No Service
+,05820,,No Service,No Service,No Service
+,05821,,No Service,No Service,No Service
+,05822,,No Service,99% available ,No Service
+,05824,,No Service,No Service,No Service
+,05825,,No Service,99% available,No Service
+,05826,,No Service,No Service,No Service
+,05827,,No Service,No Service,No Service
+,05828,,No Service,No Service,No Service
+,05829,,No Service,99% available,No Service
+,05830,,No Service,99% available,No Service
+,05832,,No Service,No Service,No Service
+,05833,,No Service,99% available ,No Service
+,05836,,No Service,99% available,No Service
+,05837,,No Service,No Service,No Service
+,05839,,No Service,99% available ,No Service
+,05840,,No Service,No Service,No Service
+,05841,,No Service,99% available,No Service
+,05842,,No Service,99% available,No Service
+,05843,,No Service,99% available ,No Service
+,05845,,No Service,99% available,No Service
+,05846,,No Service,99% available ,No Service
+,05847,,No Service,No Service,No Service
+,05850,,No Service,No Service,No Service
+,05851,,No Service,No Service,No Service
+,05853,,No Service,99% available,No Service
+,05855,,No Service,99% available ,No Service
+,05857,,No Service,99% available,No Service
+,05858,,No Service,No Service,No Service
+,05859,,No Service,99% available,No Service
+,05860,,No Service, 99% available,No Service
+,05862,,No Service,No Service,No Service
+,05866,,No Service,No Service,No Service
+,05867,,No Service,No Service,No Service
+,05868,,No Service,99% available ,No Service
+,05871,,No Service,No Service,No Service
+,05872,,No Service,99% available,No Service
+,05873,,No Service,63% available,No Service
+,05874,,No Service,99% available ,No Service
+,05875,,No Service,99% available,No Service
+,05901,,No Service,No Service,No Service
+,05902,,No Service,No Service,No Service
+,05903,,No Service,No Service,No Service
+,05904,,No Service,No Service,No Service
+,05905,,No Service,No Service,No Service
+,05906,,No Service,No Service,No Service
+,05907,,No Service,No Service,No Service

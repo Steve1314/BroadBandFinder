@@ -1,0 +1,291 @@
+City,Zip Code,S.B. Zip Code,Spectrum Business,Comcast Business,AT&T Business 
+Ashford,06001,"06021,",55% aavailable in 06021,99% available in 06001,No Service
+Bantam,06002,"06057,",68% aavailable in 06057, 99% available in 06002,No Service
+Barkhamsted,06010,"06061,", 62% aavailable in 06061,99% available in 06010,No Service
+Bethel,06013,"06063,",57% aavailable in 06063, 99% available in 06013,No Service
+Bethlehem,06016,"06065,",51% aavailable in 06065,99% available in 06016,No Service
+Bridgewater,06018,"06091,",61% aavailable in 06091,99% available in 06018,No Service
+Brookfield,06019,"06091,", 62% aavailable in 06091,99% available in 06019,No Service
+Brooklyn,06020,"06093,",99% aavailable in 06093,No Service,No Service
+Canterbury,06021,"06098,",55% aavailable in 06098,No Service,No Service
+Chaplin,06022,"06226,",55% aavailable in 06226,No Service,No Service
+Colebrook,06023,"06234,",69% aavailable in 06234,99% available in 06023,No Service
+Columbia,06024,"06235,",67% aavailable in 06235,99% available in 06024,No Service
+Coventry,06026,"06237,",72% aavailable in 06237,99% available in 06026,No Service
+Danbury,06027,"06238,",72% aavailable in 06238,99% available in 06027,No Service
+Eastford,06029,"06242,",45% aavailable in 06242,66% available in 06029,No Service
+Easton,06031,"06246,", 37% aavailable in 06246,88% available in 06031,No Service
+Gaylordsville,06032,"06247,",63% aavailable in 06247, 99% available in 06032,No Service
+Hampton,06033,"06248,",99% aavailable in 06248,99% available in 06033,No Service
+Hartford,06035,"06249,",73% aavailable in 06249,"99% available in 06035
+",No Service
+Hartland,06037,"06250,",57% aavailable in 06250,99% available in 06037,No Service
+Harwinton,06039,"06255,",57% aavailable in 06255, 99% available in 06039,No Service
+Kent,06040,"06256,",54% aavailable in 06256,99% available in 06040,No Service
+Lebanon,06042,"06258,", 28% aavailable in 06258,99% available in 06042,No Service
+Mansfield,06043,"06259,",55% aavailable in 06259,99% available in 06043,No Service
+Middlebury,06051,"06262,",53% aavailable in 06262, 99% available in 06051,No Service
+Monroe,06052,"06264,",62% aavailable in 06264,99% available in 06052,No Service
+New Fairfield,06053,"06266,",39% aavailable in 06266,99% available in 06053,No Service
+New Hartford,06057,"06268,",55% aavailable in 06268,No Service,No Service
+New Haven,06058,"06277,",53% aavailable in 06277,27% available in 06058,No Service
+New Milford,06059,"06278,",63% aavailable in 06278,No Service,No Service
+Newtown,06060,"06279,",73% aavailable in 06279, 99% available in 06060,No Service
+North Grosvenordale,06061,"06280,",64% aavailable in 06280,No Service,No Service
+North Windham,06062,"06281,",62% aavailable in 06281,99% available in 06062,No Service
+Pine Meadow,06063,"06282,",72% aavailable in 06282,No Service,No Service
+Pomfret,06065,"06331,",69% aavailable in 06331,No Service,No Service
+Pomfret Center,06066,"06334,",99% aavailable in 06334,99% available in 06066,No Service
+Quinebaug,06067,"06468,", 65% aavailable in 06468, 99% available in 06067,No Service
+Riverton,06068,"06470,",51% aavailable in 06470,99% available in 06068,No Service
+Roxbury,06069,"06482,",57% aavailable in 06482,48% available in 06069,No Service
+Sandy Hook,06070,"06488,",52% aavailable in 06488,99% available in 06070,No Service
+Scotland,06071,"06611,",48% aavailable in 06611,99% available in 06071,No Service
+Sharon,06072,"06751,",64% aavailable in 06751,No Service,No Service
+Shelton,06073,"06752,",67% aavailable in 06752,99% available in 06073,No Service
+Sherman,06074,"06755,",64% aavailable in 06755,99% available in 06074,No Service
+South Kent,06076,"06757,",51% aavailable in 06757,99% available in 06076,No Service
+South Windham,06078,"06776,", 68% aavailable in 06776, 99% available in 06078,No Service
+Southbury,06079,"06777,",57% aavailable in 06777, 99% available in 06079,No Service
+Storrs Mansfield,06080,"06783,",70% aavailable in 06783,No Service,No Service
+Thompson,06081,"06784,",64% aavailable in 06784,99% available in 06081,No Service
+Torrington,06082,"06785,",55% aavailable in 06785,99% available in 06082,No Service
+Trumbull,06084,"06791,",66% aavailable in 06791,99% available in 06084,No Service
+Warren,06085,"06793,",52% aavailable in 06793,99% available in 06085,No Service
+Washington,06088,"06794,",50% aavailable in 06794,99% available in 06088,No Service
+Washington Depot,06089,"06798,",68% aavailable in 06798, 99% available in 06089,No Service
+Watertown,06090,"06804,",52% aavailable in 06804,99% available in 06090,No Service
+West Granby,06091,"06812,",65% aavailable in 06812,No Service,No Service
+West Hartland,06092,,No Service,99% available in 06092,No Service
+Willimantic,06093,,No Service,No Service,No Service
+Willington,06095,,No Service,99% available in 06095,No Service
+Winchester,06096,,No Service,99% available in 06096,No Service
+Windham,06098,,No Service,No Service,No Service
+Winsted,06103,,No Service,99% available in 06103,No Service
+Woodbury,06105,,No Service,99% available in 06105,No Service
+Woodstock,06106,,No Service,99% available in 06106,No Service
+Woodstock Valley,06107,,No Service,99% available in 06107,No Service
+,06108,,No Service,99% available in 06108,No Service
+,06109,,No Service,99% available in 06109,No Service
+,06110,,No Service,99% available in 06110,No Service
+,06111,,No Service, 99% available in 06111,No Service
+,06112,,No Service,99% available in 06112,No Service
+,06114,,No Service,99% available in 06114,No Service
+,06117,,No Service,99% available in 06117,No Service
+,06118,,No Service, 99% available in 06118,No Service
+,06119,,No Service,"99% available in 06119
+",No Service
+,06120,,No Service,99% available in 06120,No Service
+,06226,,No Service,No Service,No Service
+,06231,,No Service,99% available in 06231,No Service
+,06232,,No Service,99% available in 06232,No Service
+,06234,,No Service,No Service,No Service
+,06235,,No Service,No Service,No Service
+,06237,,No Service,No Service,No Service
+,06238,,No Service,No Service,No Service
+,06239,,No Service,No Service,No Service
+,06241,,No Service,No Service,No Service
+,06242,,No Service,No Service,No Service
+,06243,,No Service,No Service,No Service
+,06247,,No Service,No Service,No Service
+,06248,,No Service,No Service,No Service
+,06249,,No Service,No Service,No Service
+,06250,,No Service,No Service,No Service
+,06254,,No Service,99% available in 06254,No Service
+,06255,,No Service,No Service,No Service
+,06256,,No Service,No Service,No Service
+,06258,,No Service,No Service,No Service
+,06259,,No Service,No Service,No Service
+,06260,,No Service,No Service,No Service
+,06262,,No Service,No Service,No Service
+,06263,,No Service,No Service,No Service
+,06264,,No Service,No Service,No Service
+,06266,,No Service,No Service,No Service
+,06268,,No Service,No Service,No Service
+,06269,,No Service,No Service,No Service
+,06277,,No Service,No Service,No Service
+,06278,,No Service,No Service,No Service
+,06279,,No Service,No Service,No Service
+,06280,,No Service,No Service,No Service
+,06281,,No Service,No Service,No Service
+,06282,,No Service,No Service,No Service
+,06320,,No Service,No Service,No Service
+,06330,,No Service,74% available in 06330,No Service
+,06331,,No Service,No Service,No Service
+,06332,,No Service,No Service,No Service
+,06333,,No Service,No Service,No Service
+,06334,,No Service,No Service,No Service
+,06335,,No Service, 99% available in 06335,No Service
+,06336,,No Service,No Service,No Service
+,06338,,No Service,99% available in 06338,No Service
+,06339,,No Service,99% available in 06339,No Service
+,06340,,No Service, 99% available in 06340,No Service
+,06350,,No Service, 99% available in 06350,No Service
+,06351,,No Service, 79% available in 06351,No Service
+,06353,,No Service,No Service,No Service
+,06354,,No Service,No Service,No Service
+,06355,,No Service,99% available in 06355,No Service
+,06357,,No Service,No Service,No Service
+,06359,,No Service,99% available in 06359,No Service
+,06360,,No Service,89% available in 06360,No Service
+,06365,,No Service,99% available in 06365,No Service
+,06370,,No Service,No Service,No Service
+,06371,,No Service,99% available in 06371,No Service
+,06373,,No Service,No Service,No Service
+,06374,,No Service,No Service,No Service
+,06375,,No Service,No Service,No Service
+,06376,,No Service,99% available in 06376,No Service
+,06377,,No Service,No Service,No Service
+,06378,,No Service, 99% available in 06378,No Service
+,06379,,No Service,99% available in 06379,No Service
+,06380,,No Service,99% available in 06380,No Service
+,06382,,No Service,No Service,No Service
+,06384,,No Service,99% available in 06384,No Service
+,06385,,No Service,No Service,No Service
+,06387,,No Service,No Service,No Service
+,06389,,No Service,No Service,No Service
+,06401,,No Service,99% available in 06401,No Service
+,06403,,No Service,99% available in 06403,No Service
+,06405,,No Service,99% available in 06405,No Service
+,06409,,No Service, 99% available in 06409,No Service
+,06410,,No Service,99% available in 06410,No Service
+,06412,,No Service,99% available in 06412,No Service
+,06413,,No Service,99% available in 06413,No Service
+,06414,,No Service, 99% available in 06414,No Service
+,06415,,No Service,99% available in 06415,No Service
+,06416,,No Service,99% available in 06416,No Service
+,06417,,No Service,99% available in 06417,No Service
+,06418,,No Service,99% available in 06418,No Service
+,06419,,No Service, 99% available in 06419,No Service
+,06420,,No Service,99% available in 06420,No Service
+,06422,,No Service,99% available in 06422,No Service
+,06423,,No Service,99% available in 06423,No Service
+,06424,,No Service,99% available in 06424,No Service
+,06426,,No Service,99% available in 06426,No Service
+,06437,,No Service,99% available in 06437,No Service
+,06438,,No Service, 99% available in 06438,No Service
+,06439,,No Service,99% available in 06439,No Service
+,06441,,No Service,99% available in 06441,No Service
+,06442,,No Service,99% available in 06442,No Service
+,06443,,No Service,99% available in 06443,No Service
+,06444,,No Service,No Service,No Service
+,06447,,No Service,99% available in 06447,No Service
+,06450,,No Service,99% available in 06450,No Service
+,06451,,No Service,99% available in 06451,No Service
+,06455,,No Service,99% available in 06455,No Service
+,06456,,No Service, 99% available in 06456,No Service
+,06457,,No Service,99% available in 06457,No Service
+,06459,,No Service, 99% available in 06459,No Service
+,06460,,No Service,No Service,No Service
+,06461,,No Service,No Service,No Service
+,06467,,No Service,No Service,No Service
+,06468,,No Service,63% available in 06468,No Service
+,06469,,No Service,99% available in 06469,No Service
+,06470,,No Service,No Service,No Service
+,06471,,No Service,99% available in 06471,No Service
+,06472,,No Service,99% available in 06472,No Service
+,06473,,No Service,99% available in 06473,No Service
+,06475,,No Service,99% available in 06475,No Service
+,06477,,No Service,No Service,No Service
+,06478,,No Service,99% available in 06478,No Service
+,06479,,No Service, 99% available in 06479,No Service
+,06480,,No Service, 99% available in 06480,No Service
+,06481,,No Service,99% available in 06481,No Service
+,06482,,No Service,No Service,No Service
+,06483,,No Service,99% available in 06483,No Service
+,06484,,No Service, 99% available in 06484,No Service
+,06488,,No Service,No Service,No Service
+,06489,,No Service,99% available in 06489,No Service
+,06492,,No Service,99% available in 06492,No Service
+,06498,,No Service, 99% available in 06498,No Service
+,06510,,No Service, 99% available in 06510,No Service
+,06511,,No Service,99% available in 06511,No Service
+,06512,,No Service,99% available in 06512,No Service
+,06513,,No Service, 99% available in 06513,No Service
+,06514,,No Service,99% available in 06514,No Service
+,06515,,No Service,99% available in 06515,No Service
+,06516,,No Service,99% available in 06516,No Service
+,06517,,No Service,99% available in 06517,No Service
+,06518,,No Service,80% available in 06518,No Service
+,06519,,No Service, 99% available in 06519,No Service
+,06524,,No Service, 99% available in 06524,No Service
+,06525,,No Service,No Service,No Service
+,06604,,No Service,No Service,No Service
+,06605,,No Service,No Service,No Service
+,06606,,No Service,No Service,No Service
+,06607,,No Service,No Service,No Service
+,06608,,No Service,No Service,No Service
+,06610,,No Service,No Service,No Service
+,06611,,No Service,No Service,No Service
+,06612,,No Service,No Service,No Service
+,06614,,No Service,No Service,No Service
+,06615,,No Service,No Service,No Service
+,06702,,No Service, 99% available in 06702,No Service
+,06704,,No Service, 99% available in 06704,No Service
+,06705,,No Service,99% available in 06705,No Service
+,06706,,No Service, 99% available in 06706,No Service
+,06708,,No Service,99% available in 06708,No Service
+,06710,,No Service,99% available in 06710,No Service
+,06712,,No Service,99% available in 06712,No Service
+,06716,,No Service,99% available in 06716,No Service
+,06750,,No Service,No Service,No Service
+,06751,,No Service,No Service,No Service
+,06752,,No Service,No Service,No Service
+,06753,,No Service,No Service,No Service
+,06754,,No Service,No Service,No Service
+,06755,,No Service,No Service,No Service
+,06756,,No Service,No Service,No Service
+,06757,,No Service,No Service,No Service
+,06758,,No Service,No Service,No Service
+,06759,,No Service,No Service,No Service
+,06762,,No Service,99% available in 06762,No Service
+,06763,,No Service,No Service,No Service
+,06770,,No Service,99% available in 06770,No Service
+,06776,,No Service,65% available in 06776,No Service
+,06777,,No Service,No Service,No Service
+,06778,,No Service,No Service,No Service
+,06779,,No Service,No Service,No Service
+,06782,,No Service,99% available in 06782,No Service
+,06783,,No Service,No Service,No Service
+,06784,,No Service,No Service,No Service
+,06785,,No Service,No Service,No Service
+,06786,,No Service,99% available in 06786,No Service
+,06787,,No Service,77% available in 06787,No Service
+,06790,,No Service,No Service,No Service
+,06791,,No Service,No Service,No Service
+,06793,,No Service,No Service,No Service
+,06794,,No Service,No Service,No Service
+,06795,,No Service,No Service,No Service
+,06796,,No Service, 66% available in 06796,No Service
+,06798,,No Service,No Service,No Service
+,06801,,No Service, 99% available in 06801,No Service
+,06804,,No Service,52% available in 06804,No Service
+,06807,,No Service,No Service,No Service
+,06810,,No Service,99% available in 06810,No Service
+,06811,,No Service,99% available in 06811,No Service
+,06812,,No Service,No Service,No Service
+,06820,,No Service,No Service,No Service
+,06824,,No Service,No Service,No Service
+,06825,,No Service,No Service,No Service
+,06830,,No Service,No Service,No Service
+,06831,,No Service,No Service,No Service
+,06840,,No Service,No Service,No Service
+,06850,,No Service,No Service,No Service
+,06851,,No Service,No Service,No Service
+,06853,,No Service,No Service,No Service
+,06854,,No Service,No Service,No Service
+,06855,,No Service,No Service,No Service
+,06870,,No Service,No Service,No Service
+,06877,,No Service,99% available in 06877,No Service
+,06878,,No Service,No Service,No Service
+,06880,,No Service,No Service,No Service
+,06883,,No Service,No Service,No Service
+,06890,,No Service,No Service,No Service
+,06896,,No Service,No Service,No Service
+,06897,,No Service,No Service,No Service
+,06901,,No Service,No Service,No Service
+,06902,,No Service,No Service,No Service
+,06903,,No Service,No Service,No Service
+,06905,,No Service,No Service,No Service
+,06906,,No Service,No Service,No Service
+,06907,,No Service,No Service,No Service

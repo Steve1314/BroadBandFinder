@@ -1,0 +1,180 @@
+City,Zip Code,S.B. Zip, Sepctrum Business, Comcast Business, AT&T Business 
+Albany County,82001,"      82071,", 18% available in 82071,No Service,No Service
+Bar Nunn,82005,"    82001,",49% available in 82001,No Service,No Service
+Barr Nunn,82007,"    82005,", 48% available in 82005,No Service,No Service
+Basin,82009,"    82007,", 47% available in 82007,No Service,No Service
+Big Horn County,82050,"    82009,",45% available in 82009,No Service,No Service
+Buffalo,82051,"    82070,", 46% available in 82070,No Service,No Service
+Campbell County,82052,"    82072,", 50% available in 82072,No Service,No Service
+Casper,82053,"    82301,",52% available in 82301,No Service,No Service
+Cheyenne,82054,"    82334,", 39% available in 82334,No Service,No Service
+Cody,82055,"    82401,",48% available in 82401,No Service,No Service
+East Thermopolis,82058,"    82410,", 29% available in 82410,No Service,No Service
+Evansville,82059,"    82414,",42% available in 82414,No Service,No Service
+Fe Warren Afb,82060,"    82426,",40% available in 82426,No Service,No Service
+Francis E Warren AFB,82061,"    82435,",34% available in 82435,No Service,No Service
+Fremont County,82063,"    82443,",43% available in 82443,No Service,No Service
+Gillette,82070,"    82501,",43% available in 82501,No Service,No Service
+Greybull,82072,"    82520,",35% available in 82520,No Service,No Service
+Hot Springs County,82073,"    82601,", 49% available in 82601,No Service,No Service
+Hot Springscounty,82081,"    82604,", 54% available in 82604,No Service,No Service
+Jackson,82082,"    82609,", 66% available in 82609,No Service,No Service
+Johnson County,82083,"    82636,",31% available in 82636,No Service,No Service
+Lander,82084,"    82644,",44% available in 82644,No Service,No Service
+Laramie,82190,"    82701,",37% available in 82701,No Service,No Service
+Laramie County,82201,"    82716,", 51% available in 82716,No Service,No Service
+Mills,82210,"    82718,",57% available in 82718,No Service,No Service
+Natrona County,82212,"    82801,",22% available in 82801,No Service,No Service
+Newcastle,82213,"    82833,",16% available in 82833,No Service,No Service
+No Match AF Base,82214,"    82834,",39% available in 82834,No Service,No Service
+Park County,82215,"    83001,", 43% available in 83001,No Service,No Service
+Powell,82217,"    83014,",36% available in 83014,No Service,No Service
+Rawlins,82218,"    83025,",22% available in 83025,No Service,No Service
+Riverton,82219,,No service,No Service,No Service
+Sheridan,82221,,No service,No Service,No Service
+Sheridan County,82222,,No service,No Service,No Service
+Sinclair,82223,,No service,No Service,No Service
+Teton County,82224,,No service,No Service,No Service
+Thermopolis,82225,,No service,No Service,No Service
+Washakie County,82227,,No service,No Service,No Service
+Weston County,82229,,No service,No Service,No Service
+Worland,82240,,No service,No Service,No Service
+,82242,,No service,No Service,No Service
+,82243,,No service,No Service,No Service
+,82244,,No service,No Service,No Service
+,82301,,No service,No Service,No Service
+,82310,,No service,No Service,No Service
+,82321,,No service,No Service,No Service
+,82322,,No service,No Service,No Service
+,82323,,No service,No Service,No Service
+,82324,,No service,No Service,No Service
+,82325,,No service,No Service,No Service
+,82327,,No service,No Service,No Service
+,82329,,No service,No Service,No Service
+,82331,,No service,No Service,No Service
+,82332,,No service,No Service,No Service
+,82334,,No service,No Service,No Service
+,82335,,No service,No Service,No Service
+,82336,,No service,No Service,No Service
+,82401,,No service,No Service,No Service
+,82410,,No service,No Service,No Service
+,82411,,No service,No Service,No Service
+,82412,,No service,No Service,No Service
+,82414,,No service,No Service,No Service
+,82420,,No service,No Service,No Service
+,82421,,No service,No Service,No Service
+,82422,,No service,No Service,No Service
+,82423,,No service,No Service,No Service
+,82426,,No service,No Service,No Service
+,82428,,No service,No Service,No Service
+,82430,,No service,No Service,No Service
+,82431,,No service,No Service,No Service
+,82432,,No service,No Service,No Service
+,82433,,No service,No Service,No Service
+,82434,,No service,No Service,No Service
+,82435,,No service,No Service,No Service
+,82440,,No service,No Service,No Service
+,82441,,No service,No Service,No Service
+,82442,,No service,No Service,No Service
+,82443,,no service,No Service,No Service
+,82450,,No service,No Service,No Service
+,82501,,No service,No Service,No Service
+,82510,,No service,No Service,No Service
+,82512,,No service,No Service,No Service
+,82513,,No service,No Service,No Service
+,82514,,No service,No Service,No Service
+,82515,,No service,No Service,No Service
+,82516,,No service,No Service,No Service
+,82520,,No service,No Service,No Service
+,82523,,No service,No Service,No Service
+,82601,,No service,No Service,No Service
+,82604,,No service,No Service,No Service
+,82609,,No service,No Service,No Service
+,82620,,No service,No Service,No Service
+,82630,,No service,No Service,No Service
+,82633,,No service,No Service,No Service
+,82635,,No service,No Service,No Service
+,82636,,No service,No Service,No Service
+,82637,,No service,No Service,No Service
+,82638,,No service,No Service,No Service
+,82639,,No service,No Service,No Service
+,82640,,No service,No Service,No Service
+,82642,,No service,No Service,No Service
+,82643,,No service,No Service,No Service
+,82644,,No service,No Service,No Service
+,82646,,No service,No Service,No Service
+,82648,,No service,No Service,No Service
+,82649,,No service,No Service,No Service
+,82701,,No service,No Service,No Service
+,82710,,No service,No Service,No Service
+,82711,,No service,No Service,No Service
+,82712,,No service,No Service,No Service
+,82714,,No service,No Service,No Service
+,82716,,No service,No Service,No Service
+,82718,,No service,No Service,No Service
+,82720,,no service,No Service,No Service
+,82721,,no service,No Service,No Service
+,82723,,No service,No Service,No Service
+,82725,,No service,No Service,No Service
+,82727,,No service,No Service,No Service
+,82729,,No service,No Service,No Service
+,82730,,No service,No Service,No Service
+,82731,,No service,No Service,No Service
+,82732,,No service,No Service,No Service
+,82801,,No service,No Service,No Service
+,82831,,No service,No Service,No Service
+,82832,,No service,No Service,No Service
+,82833,,No service,No Service,No Service
+,82834,,No service,No Service,No Service
+,82835,,No service,No Service,No Service
+,82836,,No service,No Service,No Service
+,82837,,No service,No Service,No Service
+,82838,,No service,No Service,No Service
+,82839,,No service,No Service,No Service
+,82842,,No service,No Service,No Service
+,82844,,No service,No Service,No Service
+,82845,,No service,No Service,No Service
+,82901,,No service,No Service,No Service
+,82922,,No service,No Service,No Service
+,82923,,No service,No Service,No Service
+,82925,,No service,No Service,No Service
+,82929,,No service,No Service,No Service
+,82930,,No service,No Service,No Service
+,82932,,No service,No Service,No Service
+,82933,,No service,No Service,No Service
+,82934,,No service,No Service,No Service
+,82935,,No service,No Service,No Service
+,82936,,No service,No Service,No Service
+,82937,,No service,No Service,No Service
+,82938,,No service,No Service,No Service
+,82939,,No service,No Service,No Service
+,82941,,No service,No Service,No Service
+,82942,,No service,No Service,No Service
+,82943,,No service,No Service,No Service
+,82944,,No service,No Service,No Service
+,82945,,No service,No Service,No Service
+,83001,,No service,No Service,No Service
+,83011,,No service,No Service,No Service
+,83012,,No service,No Service,No Service
+,83013,,No service,No Service,No Service
+,83014,,No service,No Service,No Service
+,83025,,No service,No Service,No Service
+,83101,,No service,No Service,No Service
+,83110,,No service,No Service,No Service
+,83111,,No service,No Service,No Service
+,83112,,No service,No Service,No Service
+,83113,,No service,No Service,No Service
+,83114,,No service,No Service,No Service
+,83115,,No service,No Service,No Service
+,83116,,No service,No Service,No Service
+,83118,,No service,No Service,No Service
+,83119,,No service,No Service,No Service
+,83120,,No service,No Service,No Service
+,83121,,No service,No Service,No Service
+,83122,,No service,No Service,No Service
+,83123,,No service,No Service,No Service
+,83124,,No service,No Service,No Service
+,83126,,No service,No Service,No Service
+,83127,,No service,No Service,No Service
+,83128,,No service,No Service,No Service
+,83414,,No service,No Service,No Service

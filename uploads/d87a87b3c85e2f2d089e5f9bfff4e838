@@ -1,0 +1,874 @@
+City,Zip Code,S.B. Zip, Sepctrum Business, Comcast Business, AT&T Business 
+Albion,98001,"98605,",34% available in 98605,99% available in 98001,No Service
+Benton,98002,"98612,",35% available in 98612,99% available in 98002,No Service
+Benton City,98003,"98617,", 46% available in 98617,99% available in 98003,No Service
+Bingen,98004,"98624,",46% available in 98624,99% available in 98004,No Service
+Burbank,98005,"98628,", 40% available in 98628,99% available in 98005,No Service
+Cashmere,98006,"98631,",44% available in 98631,99% available in 98006,No Service
+Cathlamet,98007,"98640,", 52% available in 98640,99% available in 98007,No Service
+Chelan County,98008,"98641,", 32% available in 98641,99% available in 98008,No Service
+Chewelah,98010,"98644,",44% available in 98644,99% available in 98010,No Service
+College Place,98011,"98672,", 34% available in 98672,99% available in 98011,No Service
+Colville,98012,"98801,", 60% available in 98801,99% available in 98012,No Service
+Dallesport,98014,"98802,", 58% available in 98802,53% available in 98014,No Service
+Dayton,98019,"98815,", 45% available in 98815,No Service,No Service
+Dixie,98020,"98826,", 20% available in 98826,99% available in 98020,No Service
+Douglas County,98021,"98828,",36% available in 98828,99% available in 98021,No Service
+Dryden,98022,"98836,", 20% available in 98836,99% available in 98022,No Service
+East Wenatchee,98023,"98840,",27% available in 98840,99% available in 98023,No Service
+Electric City,98024,"98841,",37% available in 98841,99% available in 98024,No Service
+Ellensburg,98025,"98844,",18% available in 98844,No Service,No Service
+Elmer City,98026,"98847,",37% available in 98847,99% available in 98026,No Service
+Franklin County,98027,"98850,",45% available in 98850,99% available in 98027,No Service
+Grand Coulee,98028,"98901,", 56% available in 98901,99% available in 98028,No Service
+Grandview,98029,"98902,", 70% available in 98902,99% available in 98029,No Service
+Granger,98030,"98903,", 50% available in 98903,99% available in 98030,No Service
+Grant County,98031,"98908,",58% available in 98908,99% available in 98031,No Service
+Ilwaco,98032,"98926,",48% available in 98926,99% available in 98032,No Service
+Kennewick,98033,"98930,", 49% available in 98930,99% available in 98033,No Service
+Kent,98034,"98932,",38% available in 98932,99% available in 98034,No Service
+Kettle Falls,98036,"98934,", 57% available in 98934,99% available in 98036,No Service
+Kittitas,98037,"98935,",32% available in 98935,99% available in 98037,No Service
+Klickitat County,98038,"98936,", 42% available in 98936,99% available in 98038,No Service
+Leavenworth,98039,"98938,",30% available in 98938,99% available in 98039,No Service
+Long Beach,98040,"98942,",59% available in 98942,99% available in 98040,No Service
+Lyle,98042,"98944,",55% available in 98944,99% available in 98042,No Service
+Mabton,98043,"98948,",44% available in 98948,99% available in 98043,No Service
+Malaga,98045,"98951,",29% available in 98951,99% available in 98045,No Service
+Monitor,98047,"98953,", 34% available in 98953,99% available in 98047,No Service
+Moxee,98050,"99102,",42% available in 99102,99% available in 98050,No Service
+Naches,98051,"99109,", 32% available in 99109,99% available in 98051,No Service
+Ocean Park,98052,"99114,", 24% available in 99114,99% available in 98052,No Service
+Okanogan,98053,"99116,", 38% available in 99116,99% available in 98053,No Service
+Omak,98055,"99123,",30% available in 99123,99% available in 98055,No Service
+Oroville,98056,"99124,",25% available in 99124,99% available in 98056,No Service
+Outlook,98057,"99133,",27% available in 99133,99% available in 98057,No Service
+Pacific County,98058,"99141,", 18% available in 99141,99% available in 98058,No Service
+Pasco,98059,"99148,",36% available in 99148,99% available in 98059,No Service
+Peshastin,98065,"99163,",51% available in 99163,99% available in 98065,No Service
+Prosser,98068,"99301,",62% available in 99301,No Service,No Service
+Pullman,98070,"99320,",41% available in 99320,99% available in 98070,No Service
+Richland,98072,"99323,",49% available in 99323,99% available in 98072,No Service
+Rock Island,98074,"99324,", 68% available in 99324,99% available in 98074,No Service
+Seattle,98075,"99328,",28% available in 99328,99% available in 98075,No Service
+Seaview,98077,"99329,",25% available in 99329,99% available in 98077,No Service
+Selah,98087,"99336,",64% available in 99336,99% available in 98087,No Service
+Spokane,98092,"99337,",66% available in 99337,99% available in 98092,No Service
+Stevens,98101,"99338,",57% available in 99338,99% available in 98101,No Service
+Stevens County,98102,"99350,",35% available in 99350,99% available in 98102,No Service
+Sunnyside,98103,"99352,",66% available in 99352,99% available in 98103,No Service
+Tacoma,98104,"99353,",64% available in 99353,99% available in 98104,No Service
+Tonasket,98105,"99354,",71% available in 99354,99% available in 98105,No Service
+Toppenish,98106,"99361,", 34% available in 99361,99% available in 98106,No Service
+Union Gap,98107,"99362,",62% available in 99362,99% available in 98107,No Service
+Wahkiakum County,98108,"98821,",49% available in 98821,99% available in 98108,No Service
+Waitsburg,98109,"98855,",15% available in 98855,99% available in 98109,No Service
+Walla Walla,98110,,No Service,99% available in 98110,No Service
+Wapato,98112,,No Service,99% available in 98112,No Service
+Wenatchee,98115,,No Service,99% available in 98115,No Service
+West Richland,98116,,No Service,99% available in 98116,No Service
+White Salmon,98117,,No Service,99% available in 98117,No Service
+Yakima,98118,,No Service,99% available in 98118,No Service
+Yakima County,98119,,No Service,99% available in 98119,No Service
+Zillah,98121,,No Service,99% available in 98121,No Service
+,98122,,No Service,99% available in 98122,No Service
+,98125,,No Service,99% available in 98125,No Service
+,98126,,No Service,99% available in 98126,No Service
+,98133,,No Service,99% available in 98133,No Service
+,98134,,No Service,99% available in 98134,No Service
+,98136,,No Service,99% available in 98136,No Service
+,98144,,No Service,99% available in 98144,No Service
+,98146,,No Service,99% available in 98146,No Service
+,98148,,No Service,99% available in 98148,No Service
+,98154,,No Service,99% available in 98154,No Service
+,98155,,No Service,99% available in 98155,No Service
+,98158,,No Service,No Service,No Service
+,98164,,No Service,No Service,No Service
+,98166,,No Service, 99% available in 98166,No Service
+,98168,,No Service,"99% available in 98168
+",No Service
+,98174,,No Service,No Service,No Service
+,98177,,No Service,99% available in 98177,No Service
+,98178,,No Service,99% available in 98178,No Service
+,98188,,No Service, 99% available in 98188,No Service
+,98195,,No Service,99% available in 98195,No Service
+,98198,,No Service,99% available in 98198,No Service
+,98199,,No Service,99% available in 98199,No Service
+,98201,,No Service,99% available in 98201,No Service
+,98203,,No Service,99% available in 98203,No Service
+,98204,,No Service,99% available in 98204,No Service
+,98207,,No Service,99% available in 98207,No Service
+,98208,,No Service,99% available in 98208,No Service
+,98220,,No Service,No Service,No Service
+,98221,,No Service,99% available in 98221,No Service
+,98222,,No Service,89% available in 98223,No Service
+,98223,,No Service,89% available in 98223,No Service
+,98224,,No Service,99% available in 98224,No Service
+,98225,,No Service,99% available in 98225,No Service
+,98226,,No Service,99% available in 98226,No Service
+,98229,,No Service,99% available in 98229,No Service
+,98230,,No Service,99% available in 98230,No Service
+,98232,,No Service,No Service,No Service
+,98233,,No Service,99% available in 98233,No Service
+,98235,,No Service,No Service,No Service
+,98236,,No Service,99% available in 98236,No Service
+,98237,,No Service,No Service,No Service
+,98238,,No Service,No Service,No Service
+,98239,,No Service,99% available in 98239,No Service
+,98240,,No Service,99% available in 98240,No Service
+,98241,,No Service,No Service,No Service
+,98243,,No Service,No Service,No Service
+,98244,,No Service,99% available in 98244,No Service
+,98245,,No Service,No Service,No Service
+,98247,,No Service, 99% available in 98247,No Service
+,98248,,No Service,99% available in 98248,No Service
+,98249,,No Service,99% available in 98249,No Service
+,98250,,No Service,No Service,No Service
+,98251,,No Service, 99% available in 98251,No Service
+,98252,,No Service,89% available in 98252,No Service
+,98253,,No Service,No Service,No Service
+,98255,,No Service,No Service,No Service
+,98256,,No Service,No Service,No Service
+,98257,,No Service,No Service,No Service
+,98258,,No Service,99% available in 98258,No Service
+,98260,,No Service,99% available in 98260,No Service
+,98261,,No Service,No Service,No Service
+,98262,,No Service,No Service,No Service
+,98263,,No Service,No Service,No Service
+,98264,,No Service,99% available in 98264,No Service
+,98266,,No Service,99% available in 98266,No Service
+,98267,,No Service,No Service,No Service
+,98270,,No Service,99% available in 98270,No Service
+,98271,,No Service,99% available in 98271,No Service
+,98272,,No Service,99% available in 98272,No Service
+,98273,,No Service,99% available in 98273,No Service
+,98274,,No Service, 99% available in 98274,No Service
+,98275,,No Service, 99% available in 98275,No Service
+,98276,,No Service,99% available in 98276,No Service
+,98277,,No Service,99% available in 98277,No Service
+,98278,,No Service,99% available in 98278,No Service
+,98279,,No Service,No Service,No Service
+,98280,,No Service,No Service,No Service
+,98281,,No Service,No Service,No Service
+,98282,,No Service,No Service,No Service
+,98283,,No Service,No Service,No Service
+,98284,,No Service, 99% available in 98284,No Service
+,98286,,No Service,No Service,No Service
+,98288,,No Service,No Service,No Service
+,98290,,No Service,99% available in 98290,No Service
+,98292,,No Service,No Service,No Service
+,98294,,No Service,99% available in 98294,No Service
+,98295,,No Service,No Service,No Service
+,98296,,No Service,99% available in 98296,No Service
+,98297,,No Service,No Service,No Service
+,98303,,No Service,No Service,No Service
+,98304,,No Service,No Service,No Service
+,98305,,No Service,No Service,No Service
+,98310,,No Service, 99% available in 98310,No Service
+,98311,,No Service,99% available in 98311,No Service
+,98312,,No Service, 59% available in 98312,No Service
+,98314,,No Service,No Service,No Service
+,98315,,No Service,No Service,No Service
+,98320,,No Service,No Service,No Service
+,98321,,No Service,99% available in 98321,No Service
+,98323,,No Service,99% available in 98323,No Service
+,98325,,No Service,No Service,No Service
+,98326,,No Service,No Service,No Service
+,98327,,No Service,99% available in 98327,No Service
+,98328,,No Service,99% available in 98328,No Service
+,98329,,No Service,"99% available in 98329
+",No Service
+,98330,,No Service,No Service,No Service
+,98331,,No Service,No Service,No Service
+,98332,,No Service,99% available in 98332,No Service
+,98333,,No Service,99% available in 98333,No Service
+,98335,,No Service, 99% available in 98335,No Service
+,98336,,No Service,No Service,No Service
+,98337,,No Service,99% available in 98337,No Service
+,98338,,No Service,99% available in 98338,No Service
+,98339,,No Service,No Service,No Service
+,98340,,No Service, 99% available in 98340,No Service
+,98342,,No Service,99% available in 98342,No Service
+,98345,,No Service,No Service,No Service
+,98346,,No Service,99% available in 98346,No Service
+,98349,,No Service,38% available in 98349,No Service
+,98350,,No Service,No Service,No Service
+,98351,,No Service,No Service,No Service
+,98353,,No Service,No Service,No Service
+,98354,,No Service,99% available in 98354,No Service
+,98355,,No Service,No Service,No Service
+,98356,,No Service,No Service,No Service
+,98357,,No Service,No Service,No Service
+,98358,,No Service,No Service,No Service
+,98359,,No Service,No Service,No Service
+,98360,,No Service,99% available in 98360,No Service
+,98361,,No Service,No Service,No Service
+,98362,,No Service,No Service,No Service
+,98363,,No Service,No Service,No Service
+,98364,,No Service, 99% available in 98364,No Service
+,98365,,No Service,No Service,No Service
+,98366,,No Service,26% available in 98366,No Service
+,98367,,No Service,No Service,No Service
+,98368,,No Service,No Service,No Service
+,98370,,No Service, 99% available in 98370,No Service
+,98371,,No Service,99% available in 98371,No Service
+,98372,,No Service,99% available in 98372,No Service
+,98373,,No Service,99% available in 98373,No Service
+,98374,,No Service,99% available in 98374,No Service
+,98375,,No Service,99% available in 98375,No Service
+,98376,,No Service,No Service,No Service
+,98377,,No Service,No Service,No Service
+,98380,,No Service,No Service,No Service
+,98381,,No Service,No Service,No Service
+,98382,,No Service,No Service,No Service
+,98383,,No Service,74% available in 98383,No Service
+,98385,,No Service, 99% available in 98385,No Service
+,98387,,No Service,99% available in 98387,No Service
+,98388,,No Service,99% available in 98388,No Service
+,98390,,No Service,99% available in 98390,No Service
+,98391,,No Service, 99% available in 98391,No Service
+,98392,,No Service,99% available in 98392,No Service
+,98394,,No Service,99% available in 98394,No Service
+,98396,,No Service, 99% available in 98396,No Service
+,98402,,No Service,99% available in 98402,No Service
+,98403,,No Service,99% available in 98403,No Service
+,98404,,No Service,99% available in 98404,No Service
+,98405,,No Service,99% available in 98405,No Service
+,98406,,No Service,99% available in 98406,No Service
+,98407,,No Service,99% available in 98407,No Service
+,98408,,No Service,99% available in 98408,No Service
+,98409,,No Service,99% available in 98409,No Service
+,98416,,No Service,No Service,No Service
+,98418,,No Service,99% available in 98418,No Service
+,98421,,No Service, 99% available in 98421,No Service
+,98422,,No Service,99% available in 98422,No Service
+,98424,,No Service, 99% available in 98424,No Service
+,98430,,No Service,No Service,No Service
+,98433,,No Service,99% available in 98433,No Service
+,98438,,No Service,99% available in 98438,No Service
+,98439,,No Service,99% available in 98439,No Service
+,98443,,No Service, 99% available in 98443,No Service
+,98444,,No Service, 99% available in 98444,No Service
+,98445,,No Service,99% available in 98445,No Service
+,98446,,No Service,99% available in 98446,No Service
+,98447,,No Service, 99% available in 98447,No Service
+,98465,,No Service, 99% available in 98465,No Service
+,98466,,No Service,99% available in 98466,No Service
+,98467,,No Service,99% available in 98467,No Service
+,98498,,No Service,99% available in 98498,No Service
+,98499,,No Service, 99% available in 98499,No Service
+,98501,,No Service,99% available in 98501,No Service
+,98502,,No Service,99% available in 98502,No Service
+,98503,,No Service, 99% available in 985030,No Service
+,98505,,No Service,99% available in 98505,No Service
+,98506,,No Service,99% available in 98506,No Service
+,98512,,No Service, 99% available in 98512,No Service
+,98513,,No Service,99% available in 98513,No Service
+,98516,,No Service,99% available in 98516,No Service
+,98520,,No Service,99% available in 98520,No Service
+,98524,,No Service,No Service,No Service
+,98526,,No Service,No Service,No Service
+,98527,,No Service,No Service,No Service
+,98528,,No Service,No Service,No Service
+,98530,,No Service,No Service,No Service
+,98531,,No Service, 93% available in 98531,No Service
+,98532,,No Service,84% available in 98532,No Service
+,98533,,No Service,No Service,No Service
+,98535,,No Service,No Service,No Service
+,98536,,No Service,No Service,No Service
+,98537,,No Service,99% available in 98537,No Service
+,98538,,No Service,No Service,No Service
+,98539,,No Service,No Service,No Service
+,98541,,No Service,98% available in 98541,No Service
+,98542,,No Service,No Service,No Service
+,98544,,No Service,No Service,No Service
+,98546,,No Service,No Service,No Service
+,98547,,No Service,99% available in 98547,No Service
+,98548,,No Service,No Service,No Service
+,98550,,No Service,63% available in 98550,No Service
+,98552,,No Service,No Service,No Service
+,98555,,No Service,No Service,No Service
+,98556,,No Service,No Service,No Service
+,98557,,No Service,48% available in 98557,No Service
+,98558,,No Service,No Service,No Service
+,98559,,No Service,99% available in 98559,No Service
+,98560,,No Service,No Service,No Service
+,98562,,No Service,No Service,No Service
+,98563,,No Service,99% available in 98563,No Service
+,98564,,No Service,No Service,No Service
+,98565,,No Service,No Service,No Service
+,98566,,No Service,No Service,No Service
+,98568,,No Service,76% available in 98568,No Service
+,98569,,No Service,No Service,No Service
+,98570,,No Service,No Service,No Service
+,98571,,No Service,No Service,No Service
+,98572,,No Service,No Service,No Service
+,98575,,No Service,No Service,No Service
+,98576,,No Service,99% available in 98576,No Service
+,98577,,No Service, 99% available in 98577,No Service
+,98579,,No Service,88% available in 98579,No Service
+,98580,,No Service,99% available in 98580,No Service
+,98581,,No Service,No Service,No Service
+,98582,,No Service,No Service,No Service
+,98583,,No Service, 99% available in 98583,No Service
+,98584,,No Service,84% available in 98584,No Service
+,98585,,No Service,No Service,No Service
+,98586,,No Service,99% available in 98586,No Service
+,98587,,No Service,No Service,No Service
+,98588,,No Service,No Service,No Service
+,98589,,No Service,99% available in 98589,No Service
+,98590,,No Service,99% available in 98590,No Service
+,98591,,No Service,No Service,No Service
+,98592,,No Service,No Service,No Service
+,98593,,No Service,No Service,No Service
+,98595,,No Service,99% available in 98595,No Service
+,98596,,No Service,No Service,No Service
+,98597,,No Service,99% available in 98597,No Service
+,98601,,No Service,No Service,No Service
+,98602,,No Service,No Service,No Service
+,98603,,No Service,No Service,No Service
+,98604,,No Service,93% available in 98604,No Service
+,98605,,No Service,No Service,No Service
+,98606,,No Service,99% available in 98606,No Service
+,98607,,No Service,99% available in 98607,No Service
+,98609,,No Service,No Service,No Service
+,98610,,No Service,No Service,No Service
+,98611,,No Service, 99% available in 98611,No Service
+,98612,,No Service,No Service,No Service
+,98613,,No Service,No Service,No Service
+,98614,,No Service,No Service,No Service
+,98616,,No Service,No Service,No Service
+,98617,,No Service,No Service,No Service
+,98619,,No Service,No Service,No Service
+,98620,,No Service,No Service,No Service
+,98621,,No Service,No Service,No Service
+,98623,,No Service,No Service,No Service
+,98624,,No Service,No Service,No Service
+,98625,,No Service,99% available in 98625,No Service
+,98626,,No Service,99% available in 98626,No Service
+,98628,,No Service,No Service,No Service
+,98629,,No Service,75% available in 98631,No Service
+,98631,,No Service,No Service,No Service
+,98632,,No Service,93% available in 98632,No Service
+,98635,,No Service,No Service,No Service
+,98638,,No Service,No Service,No Service
+,98639,,No Service,No Service,No Service
+,98640,,No Service,No Service,No Service
+,98641,,No Service,No Service,No Service
+,98642,,No Service,99% available in 98642,No Service
+,98643,,No Service,No Service,No Service
+,98644,,No Service,No Service,No Service
+,98645,,No Service,99% available in 98645,No Service
+,98647,,No Service,No Service,No Service
+,98648,,No Service,No Service,No Service
+,98649,,No Service,99% available in 98649,No Service
+,98650,,No Service,No Service,No Service
+,98651,,No Service,No Service,No Service
+,98660,,No Service,99% availalble in 98660,No Service
+,98661,,No Service,99 % svailalble in 98661,No Service
+,98662,,No Service,99% available in 98662,No Service
+,98663,,No Service,99% available in 98663,No Service
+,98664,,No Service,99% available in 98664,No Service
+,98665,,No Service,99% available in 98665,No Service
+,98670,,No Service,No Service,No Service
+,98671,,No Service,No Service,No Service
+,98672,,No Service,No Service,No Service
+,98673,,No Service,No Service,No Service
+,98674,,No Service,65% available in  98674,No Service
+,98675,,No Service,No Service,No Service
+,98682,,No Service,99% available in 98682,No Service
+,98683,,No Service,99% available in 98683,No Service
+,98684,,No Service,99% available in 98684,No Service
+,98685,,No Service,99% available in 98685,No Service
+,98686,,No Service,No Service,No Service
+,98801,,No Service,No Service,No Service
+,98802,,No Service,No Service,No Service
+,98811,,No Service,No Service,No Service
+,98812,,No Service,No Service,No Service
+,98813,,No Service,No Service,No Service
+,98814,,No Service,No Service,No Service
+,98815,,No Service,No Service,No Service
+,98816,,No Service,No Service,No Service
+,98817,,No Service,No Service,No Service
+,98819,,No Service,No Service,No Service
+,98821,,No Service,No Service,No Service
+,98822,,No Service,No Service,No Service
+,98823,,No Service,No Service,No Service
+,98824,,No Service,No Service,No Service
+,98826,,No Service,No Service,No Service
+,98827,,No Service,No Service,No Service
+,98828,,No Service,No Service,No Service
+,98829,,No Service,No Service,No Service
+,98830,,No Service,No Service,No Service
+,98831,,No Service,No Service,No Service
+,98832,,No Service,No Service,No Service
+,98833,,No Service,No Service,No Service
+,98834,,No Service,No Service,No Service
+,98836,,No Service,No Service,No Service
+,98837,,No Service,No Service,No Service
+,98840,,No Service,No Service,No Service
+,98841,,No Service,No Service,No Service
+,98843,,No Service,No Service,No Service
+,98844,,No Service,No Service,No Service
+,98845,,No Service,No Service,No Service
+,98846,,No Service,No Service,No Service
+,98847,,No Service,No Service,No Service
+,98848,,No Service,No Service,No Service
+,98849,,No Service,No Service,No Service
+,98850,,No Service,No Service,No Service
+,98851,,No Service,No Service,No Service
+,98852,,No Service,No Service,No Service
+,98853,,No Service,No Service,No Service
+,98855,,No Service,No Service,No Service
+,98856,,No Service,No Service,No Service
+,98857,,No Service,No Service,No Service
+,98858,,No Service,No Service,No Service
+,98859,,No Service,No Service,No Service
+,98860,,No Service,No Service,No Service
+,98862,,No Service,No Service,No Service
+,98901,,No Service,No Service,No Service
+,98902,,No Service,No Service,No Service
+,98903,,No Service,No Service,No Service
+,98908,,No Service,No Service,No Service
+,98921,,No Service,No Service,No Service
+,98922,,No Service,No Service,No Service
+,98923,,No Service,No Service,No Service
+,98925,,No Service,No Service,No Service
+,98926,,No Service,No Service,No Service
+,98930,,No Service,No Service,No Service
+,98932,,No Service,No Service,No Service
+,98933,,No Service,No Service,No Service
+,98934,,No Service,No Service,No Service
+,98935,,No Service,No Service,No Service
+,98936,,No Service,No Service,No Service
+,98937,,No Service,No Service,No Service
+,98938,,No Service,No Service,No Service
+,98939,,No Service,No Service,No Service
+,98940,,No Service,No Service,No Service
+,98941,,No Service,No Service,No Service
+,98942,,No Service,No Service,No Service
+,98943,,No Service,No Service,No Service
+,98944,,No Service,No Service,No Service
+,98946,,No Service,No Service,No Service
+,98947,,No Service,No Service,No Service
+,98948,,No Service,No Service,No Service
+,98950,,No Service,No Service,No Service
+,98951,,No Service,No Service,No Service
+,98952,,No Service,No Service,No Service
+,98953,,No Service,No Service,No Service
+,99001,,No Service,99% available in 99001,No Service
+,99003,,No Service,No Service,No Service
+,99004,,No Service,72% available in 99004,No Service
+,99005,,No Service,77% available in 99005,No Service
+,99006,,No Service,No Service,No Service
+,99008,,No Service,No Service,No Service
+,99009,,No Service,No Service,No Service
+,99011,,No Service,99% available in 99011,No Service
+,99012,,No Service,No Service,No Service
+,99013,,No Service,No Service,No Service
+,99014,,No Service,No Service,No Service
+,99016,,No Service,99% available in 99016,No Service
+,99017,,No Service,No Service,No Service
+,99018,,No Service,No Service,No Service
+,99019,,No Service,99% available in 99019,No Service
+,99020,,No Service,No Service,No Service
+,99021,,No Service,99% available in 99021,No Service
+,99022,,No Service,79% available in 99022,No Service
+,99023,,No Service,No Service,No Service
+,99025,,No Service,99% available in 99025,No Service
+,99026,,No Service,99% available in 99025,No Service
+,99027,,No Service,99% available in 99026,No Service
+,99029,,No Service,No Service,No Service
+,99030,,No Service,No Service,No Service
+,99031,,No Service,No Service,No Service
+,99032,,No Service,No Service,No Service
+,99033,,No Service,No Service,No Service
+,99034,,No Service,No Service,No Service
+,99036,,No Service,No Service,No Service
+,99037,,No Service,99% available in 99037,No Service
+,99039,,No Service,No Service,No Service
+,99040,,No Service,No Service,No Service
+,99101,,No Service,No Service,No Service
+,99102,,No Service,No Service,No Service
+,99103,,No Service,No Service,No Service
+,99105,,No Service,No Service,No Service
+,99109,,No Service,No Service,No Service
+,99110,,No Service,No Service,No Service
+,99111,,No Service,No Service,No Service
+,99113,,No Service,No Service,No Service
+,99114,,No Service,No Service,No Service
+,99115,,No Service,No Service,No Service
+,99116,,No Service,No Service,No Service
+,99117,,No Service,No Service,No Service
+,99118,,No Service,No Service,No Service
+,99119,,No Service,No Service,No Service
+,99121,,No Service,No Service,No Service
+,99122,,No Service,No Service,No Service
+,99123,,No Service,No Service,No Service
+,99124,,No Service,No Service,No Service
+,99125,,No Service,No Service,No Service
+,99126,,No Service,No Service,No Service
+,99128,,No Service,No Service,No Service
+,99129,,No Service,No Service,No Service
+,99130,,No Service,No Service,No Service
+,99131,,No Service,No Service,No Service
+,99133,,No Service,No Service,No Service
+,99134,,No Service,No Service,No Service
+,99135,,No Service,No Service,No Service
+,99136,,No Service,No Service,No Service
+,99137,,No Service,No Service,No Service
+,99138,,No Service,No Service,No Service
+,99139,,No Service,No Service,No Service
+,99140,,No Service,No Service,No Service
+,99141,,No Service,No Service,No Service
+,99143,,No Service,No Service,No Service
+,99144,,No Service,No Service,No Service
+,99146,,No Service,No Service,No Service
+,99147,,No Service,No Service,No Service
+,99148,,No Service,No Service,No Service
+,99149,,No Service,No Service,No Service
+,99150,,No Service,No Service,No Service
+,99151,,No Service,No Service,No Service
+,99152,,No Service,No Service,No Service
+,99153,,No Service,No Service,No Service
+,99154,,No Service,No Service,No Service
+,99155,,No Service,No Service,No Service
+,99156,,No Service,No Service,No Service
+,99157,,No Service,No Service,No Service
+,99158,,No Service,No Service,No Service
+,99159,,No Service,No Service,No Service
+,99160,,No Service,No Service,No Service
+,99161,,No Service,No Service,No Service
+,99163,,No Service,No Service,No Service
+,99166,,No Service,No Service,No Service
+,99167,,No Service,No Service,No Service
+,99169,,No Service,No Service,No Service
+,99170,,No Service,No Service,No Service
+,99171,,No Service,No Service,No Service
+,99173,,No Service,No Service,No Service
+,99174,,No Service,No Service,No Service
+,99176,,No Service,No Service,No Service
+,99179,,No Service,No Service,No Service
+,99180,,No Service,No Service,No Service
+,99181,,No Service,No Service,No Service
+,99185,,No Service,No Service,No Service
+,99201,,No Service,99% available in 99201,No Service
+,99202,,No Service, 99% available in 99202,No Service
+,99203,,No Service, 99% available in 99203,No Service
+,99204,,No Service, 99% available in 99204,No Service
+,99205,,No Service,99% available in 99205,No Service
+,99206,,No Service,99% available in 99206,No Service
+,99207,,No Service,99% available in 99207,No Service
+,99208,,No Service,97% available in 99208,No Service
+,99212,,No Service,99% available in 99212,No Service
+,99216,,No Service,99% available in 99216,No Service
+,99217,,No Service,99% available in 99217,No Service
+,99218,,No Service,99% available in 99218,No Service
+,99223,,No Service, 99% available in 99223,No Service
+,99224,,No Service,94% available in 992240,No Service
+,99251,,No Service,No Service,No Service
+,99258,,No Service,No Service,No Service
+,99301,,No Service,No Service,No Service
+,99320,,No Service,No Service,No Service
+,99321,,No Service,No Service,No Service
+,99322,,No Service,No Service,No Service
+,99323,,No Service,No Service,No Service
+,99324,,No Service,No Service,No Service
+,99326,,No Service,No Service,No Service
+,99328,,No Service,No Service,No Service
+,99329,,No Service,No Service,No Service
+,99330,,No Service,No Service,No Service
+,99333,,No Service,No Service,No Service
+,99335,,No Service,No Service,No Service
+,99336,,No Service,No Service,No Service
+,99337,,No Service,No Service,No Service
+,99338,,No Service,No Service,No Service
+,99341,,No Service,No Service,No Service
+,99343,,No Service,No Service,No Service
+,99344,,No Service,No Service,No Service
+,99345,,No Service,No Service,No Service
+,99346,,No Service,No Service,No Service
+,99347,,No Service,No Service,No Service
+,99348,,No Service,No Service,No Service
+,99349,,No Service,No Service,No Service
+,99350,,No Service,No Service,No Service
+,99352,,No Service,No Service,No Service
+,99353,,No Service,No Service,No Service
+,99354,,No Service,No Service,No Service
+,99356,,No Service,No Service,No Service
+,99357,,No Service,No Service,No Service
+,99359,,No Service,No Service,No Service
+,99360,,No Service,No Service,No Service
+,99361,,No Service,No Service,No Service
+,99362,,No Service,No Service,No Service
+,99363,,No Service,No Service,No Service
+,99371,,No Service,No Service,No Service
+,99401,,No Service,No Service,No Service
+,99402,,No Service,No Service,No Service
+,99403,,No Service,No Service,No Service
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,

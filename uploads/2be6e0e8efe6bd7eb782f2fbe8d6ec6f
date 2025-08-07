@@ -1,0 +1,740 @@
+City,Zip Code,S.B. Zip, Sepctrum Business, Comcast Business, AT&T Business 
+Anmoore,24701,26323, 20% available in 26323, 99% available in 24701,No service
+Barrackville,24712,26422, 20% available in 26422,No service,No service
+Bridgeport,24714,26408, 26% available in 26408,No service,No service
+Clarksburg,24715,26554, 33% available in 26554, 99% available in 24715,No service
+Enterprise,24716,26330, 39% available in 26330,No service,No service
+Fairmont,24719,26301, 40% available in 26301,No service,No service
+Flemington,24724,26559, 41% available in 26559, 99% available in 24724,No service
+Harrison,24726,,No service,No service,No service
+Harrison County,24729,,No service,No service,No service
+Kingmont,24731,,No service,No service,No service
+Marion,24733,,No service,No service,No service
+Marion County,24736,,No service,No service,No service
+Mcdowell,24737,,No service, 99% available in 24737,No service
+Mount Clare,24738,,No service, 99% available in 24738,No service
+Nutter Fort,24739,,No service, 99% available in 24739,No service
+Pleasant Valley,24740,,No service, 99% available in 24740,No service
+Reynoldsville,24747,,No service, 99% available in 24747,No service
+Salem,24801,,No service,No service,No service
+Stonewood,24808,,No service,No service,No service
+Taylor,24811,,No service,No service,No service
+Taylor County,24813,,No service,No service,No service
+,24815,,No service,No service,No service
+,24816,,No service,No service,No service
+,24817,,No service,No service,No service
+,24818,,No service,No service,No service
+,24822,,No service,No service,No service
+,24823,,No service,No service,No service
+,24826,,No service,No service,No service
+,24827,,No service,No service,No service
+,24828,,No service,No service,No service
+,24830,,No service,No service,No service
+,24831,,No service,No service,No service
+,24834,,No service,No service,No service
+,24836,,No service,No service,No service
+,24839,,No service,No service,No service
+,24843,,No service,No service,No service
+,24844,,No service,No service,No service
+,24845,,No service,No service,No service
+,24846,,No service,No service,No service
+,24847,,No service,No service,No service
+,24848,,No service,No service,No service
+,24849,,No service,No service,No service
+,24850,,No service,No service,No service
+,24851,,No service,No service,No service
+,24853,,No service,No service,No service
+,24854,,No service,No service,No service
+,24855,,No service,No service,No service
+,24857,,No service,No service,No service
+,24860,,No service,No service,No service
+,24861,,No service,No service,No service
+,24862,,No service,No service,No service
+,24866,,No service,No service,No service
+,24867,,No service,No service,No service
+,24868,,No service,No service,No service
+,24869,,No service,No service,No service
+,24870,,No service,No service,No service
+,24871,,No service,No service,No service
+,24872,,No service,No service,No service
+,24873,,No service,No service,No service
+,24874,,No service,No service,No service
+,24878,,No service,No service,No service
+,24879,,No service,No service,No service
+,24880,,No service,No service,No service
+,24881,,No service,No service,No service
+,24882,,No service,No service,No service
+,24884,,No service,No service,No service
+,24887,,No service,No service,No service
+,24888,,No service,No service,No service
+,24892,,No service,No service,No service
+,24894,,No service,No service,No service
+,24895,,No service,No service,No service
+,24898,,No service,No service,No service
+,24901,,No service,No service,No service
+,24910,,No service,No service,No service
+,24915,,No service,No service,No service
+,24916,,No service,No service,No service
+,24918,,No service,No service,No service
+,24920,,No service,No service,No service
+,24924,,No service,No service,No service
+,24925,,No service,No service,No service
+,24927,,No service,No service,No service
+,24931,,No service,No service,No service
+,24934,,No service,No service,No service
+,24935,,No service,No service,No service
+,24938,,No service,No service,No service
+,24941,,No service,No service,No service
+,24943,,No service,No service,No service
+,24944,,No service,No service,No service
+,24945,,No service,No service,No service
+,24946,,No service,No service,No service
+,24951,,No service,No service,No service
+,24954,,No service,No service,No service
+,24957,,No service,No service,No service
+,24962,,No service,No service,No service
+,24963,,No service,No service,No service
+,24966,,No service,No service,No service
+,24970,,No service,No service,No service
+,24974,,No service,No service,No service
+,24976,,No service,No service,No service
+,24977,,No service,No service,No service
+,24981,,No service,No service,No service
+,24983,,No service,No service,No service
+,24984,,No service,No service,No service
+,24985,,No service,No service,No service
+,24986,,No service,No service,No service
+,24991,,No service,No service,No service
+,24993,,No service,No service,No service
+,25002,,No service,No service,No service
+,25003,,No service,No service,No service
+,25005,,No service,No service,No service
+,25007,,No service,No service,No service
+,25008,,No service,No service,No service
+,25009,,No service,No service,No service
+,25011,,No service, 99% available in 25011,No service
+,25015,,No service,No service,No service
+,25019,,No service,No service,No service
+,25021,,No service,No service,No service
+,25022,,No service,No service,No service
+,25024,,No service,No service,No service
+,25025,,No service,No service,No service
+,25028,,No service,No service,No service
+,25030,,No service,No service,No service
+,25031,,No service,No service,No service
+,25033,,No service, 99% available in 25033,No service
+,25035,,No service,No service,No service
+,25036,,No service,No service,No service
+,25039,,No service,No service,No service
+,25040,,No service,No service,No service
+,25043,,No service,No service,No service
+,25044,,No service,No service,No service
+,25045,,No service,No service,No service
+,25047,,No service,No service,No service
+,25048,,No service,No service,No service
+,25049,,No service,No service,No service
+,25051,,No service,No service,No service
+,25053,,No service,No service,No service
+,25054,,No service,No service,No service
+,25057,,No service,No service,No service
+,25059,,No service,No service,No service
+,25060,,No service,No service,No service
+,25061,,No service,No service,No service
+,25062,,No service,No service,No service
+,25063,,No service,No service,No service
+,25064,,No service,No service,No service
+,25067,,No service,No service,No service
+,25070,,No service, 99% available in 25070,No service
+,25071,,No service,No service,No service
+,25075,,No service,No service,No service
+,25076,,No service,No service,No service
+,25081,,No service,No service,No service
+,25082,,No service,No service,No service
+,25083,,No service,No service,No service
+,25085,,No service,No service,No service
+,25086,,No service,No service,No service
+,25088,,No service,No service,No service
+,25090,,No service,No service,No service
+,25093,,No service,No service,No service
+,25102,,No service,No service,No service
+,25103,,No service,No service,No service
+,25106,,No service,No service,No service
+,25107,,No service,No service,No service
+,25108,,No service,No service,No service
+,25109,,No service, 99% available in 25109,No service
+,25110,,No service,No service,No service
+,25111,,No service,No service,No service
+,25112,,No service,No service,No service
+,25113,,No service,No service,No service
+,25114,,No service,No service,No service
+,25115,,No service,No service,No service
+,25118,,No service,No service,No service
+,25119,,No service,No service,No service
+,25121,,No service,No service,No service
+,25123,,No service,No service,No service
+,25124,,No service,No service,No service
+,25125,,No service,No service,No service
+,25126,,No service,No service,No service
+,25130,,No service,No service,No service
+,25132,,No service,No service,No service
+,25133,,No service,No service,No service
+,25134,,No service,No service,No service
+,25136,,No service,No service,No service
+,25139,,No service,No service,No service
+,25140,,No service,No service,No service
+,25141,,No service,No service,No service
+,25142,,No service,No service,No service
+,25143,,No service, 91% available in 25143,No service
+,25148,,No service,No service,No service
+,25149,,No service,No service,No service
+,25152,,No service,No service,No service
+,25154,,No service,No service,No service
+,25156,,No service,No service,No service
+,25159,,No service, 64% available in 25159,No service
+,25160,,No service,No service,No service
+,25161,,No service,No service,No service
+,25162,,No service,No service,No service
+,25164,,No service,No service,No service
+,25165,,No service,No service,No service
+,25168,,No service, 99% available in 25168,No service
+,25169,,No service,No service,No service
+,25173,,No service,No service,No service
+,25174,,No service,No service,No service
+,25177,,No service, 84% available in 25177,No service
+,25180,,No service,No service,No service
+,25181,,No service,No service,No service
+,25183,,No service,No service,No service
+,25185,,No service,No service,No service
+,25186,,No service,No service,No service
+,25187,,No service,No service,No service
+,25193,,No service,No service,No service
+,25201,,No service,No service,No service
+,25202,,No service,No service,No service
+,25203,,No service,No service,No service
+,25204,,No service,No service,No service
+,25205,,No service,No service,No service
+,25206,,No service,No service,No service
+,25208,,No service,No service,No service
+,25209,,No service,No service,No service
+,25211,,No service,No service,No service
+,25213,,No service, 99% available in 25213,No service
+,25214,,No service,No service,No service
+,25231,,No service,No service,No service
+,25234,,No service,No service,No service
+,25235,,No service,No service,No service
+,25239,,No service,No service,No service
+,25241,,No service,No service,No service
+,25243,,No service,No service,No service
+,25244,,No service,No service,No service
+,25245,,No service,No service,No service
+,25247,,No service,No service,No service
+,25248,,No service,No service,No service
+,25251,,No service,No service,No service
+,25252,,No service,No service,No service
+,25253,,No service,No service,No service
+,25259,,No service,No service,No service
+,25260,,No service,No service,No service
+,25261,,No service,No service,No service
+,25262,,No service,No service,No service
+,25264,,No service,No service,No service
+,25265,,No service,No service,No service
+,25266,,No service,No service,No service
+,25267,,No service,No service,No service
+,25268,,No service,No service,No service
+,25270,,No service,No service,No service
+,25271,,No service,No service,No service
+,25275,,No service,No service,No service
+,25276,,No service,No service,No service
+,25285,,No service,No service,No service
+,25286,,No service,No service,No service
+,25287,,No service,No service,No service
+,25301,,No service,No service,No service
+,25302,,No service,No service,No service
+,25303,,No service,No service,No service
+,25304,,No service,No service,No service
+,25305,,No service,No service,No service
+,25306,,No service,No service,No service
+,25309,,No service,No service,No service
+,25311,,No service,No service,No service
+,25312,,No service,No service,No service
+,25313,,No service,No service,No service
+,25314,,No service,No service,No service
+,25315,,No service,No service,No service
+,25320,,No service,No service,No service
+,25387,,No service,No service,No service
+,25401,,No service, 99% available in 25401,No service
+,25403,,No service, 99% available in 25403,No service
+,25404,,No service, 99% available in 25404,No service
+,25405,,No service, 99% available in 25405,No service
+,25411,,No service, 99% available in 25411,No service
+,25413,,No service, 99% available in 25413,No service
+,25414,,No service, 99% available in 25414,No service
+,25419,,No service, 99% available in 25419,No service
+,25420,,No service, 99% available in 25420,No service
+,25421,,No service,No service,No service
+,25422,,No service, 99% available in 25422,No service
+,25425,,No service, 99% available in 25425,No service
+,25427,,No service, 99% available in 25427,No service
+,25428,,No service, 99% available in 25428,No service
+,25430,,No service, 99% available in 25430,No service
+,25431,,No service,No service,No service
+,25432,,No service,No service,No service
+,25434,,No service,No service,No service
+,25437,,No service,No service,No service
+,25438,,No service, 99% available in 25438,No service
+,25442,,No service, 99% available in 25442,No service
+,25443,,No service, 99% available in 25443,No service
+,25444,,No service,No service,No service
+,25446,,No service, 99% available in 25446,No service
+,25501,,No service,No service,No service
+,25502,,No service,No service,No service
+,25503,,No service,No service,No service
+,25504,,No service, 87% available in 25504,No service
+,25505,,No service,No service,No service
+,25506,,No service,No service,No service
+,25507,,No service,No service,No service
+,25508,,No service,No service,No service
+,25510,,No service,No service,No service
+,25511,,No service,No service,No service
+,25512,,No service,No service,No service
+,25514,,No service,No service,No service
+,25515,,No service,No service,No service
+,25517,,No service,No service,No service
+,25520,,No service,No service,No service
+,25521,,No service,No service,No service
+,25523,,No service,No service,No service
+,25524,,No service,No service,No service
+,25526,,No service, 99% available in 25526,No service
+,25529,,No service,No service,No service
+,25530,,No service,No service,No service
+,25534,,No service,No service,No service
+,25535,,No service,No service,No service
+,25537,,No service, 99% available in 25537,No service
+,25540,,No service,No service,No service
+,25541,,No service,No service,No service
+,25544,,No service,No service,No service
+,25545,,No service, 99% available in 25545,No service
+,25547,,No service,No service,No service
+,25550,,No service,No service,No service
+,25555,,No service,No service,No service
+,25557,,No service,No service,No service
+,25559,,No service,No service,No service
+,25560,,No service, 99% available in 25560,No service
+,25564,,No service,No service,No service
+,25565,,No service,No service,No service
+,25567,,No service,No service,No service
+,25570,,No service,No service,No service
+,25571,,No service,No service,No service
+,25573,,No service,No service,No service
+,25601,,No service,No service,No service
+,25606,,No service,No service,No service
+,25607,,No service,No service,No service
+,25608,,No service,No service,No service
+,25611,,No service,No service,No service
+,25612,,No service,No service,No service
+,25617,,No service,No service,No service
+,25621,,No service,No service,No service
+,25624,,No service,No service,No service
+,25625,,No service,No service,No service
+,25628,,No service,No service,No service
+,25630,,No service,No service,No service
+,25632,,No service,No service,No service
+,25634,,No service,No service,No service
+,25635,,No service,No service,No service
+,25637,,No service,No service,No service
+,25638,,No service,No service,No service
+,25639,,No service,No service,No service
+,25644,,No service,No service,No service
+,25646,,No service,No service,No service
+,25647,,No service,No service,No service
+,25649,,No service,No service,No service
+,25650,,No service,No service,No service
+,25651,,No service,No service,No service
+,25652,,No service,No service,No service
+,25653,,No service,No service,No service
+,25654,,No service,No service,No service
+,25661,,No service,No service,No service
+,25666,,No service,No service,No service
+,25667,,No service,No service,No service
+,25669,,No service,No service,No service
+,25670,,No service,No service,No service
+,25671,,No service,No service,No service
+,25672,,No service,No service,No service
+,25674,,No service,No service,No service
+,25676,,No service,No service,No service
+,25678,,No service,No service,No service
+,25685,,No service,No service,No service
+,25688,,No service,No service,No service
+,25690,,No service,No service,No service
+,25692,,No service,No service,No service
+,25696,,No service,No service,No service
+,25699,,No service,No service,No service
+,25701,,No service, 93% available in 25701,No service
+,25702,,No service, 99% available in 25702,No service
+,25703,,No service, 99% available in 25703,No service
+,25704,,No service, 90% available in 25704,No service
+,25705,,No service, 99% available in 25705,No service
+,25755,,No service,99% available in 25755,No service
+,25801,,No service,No service,No service
+,25810,,No service,No service,No service
+,25811,,No service,No service,No service
+,25812,,No service,No service,No service
+,25813,,No service,No service,No service
+,25817,,No service,No service,No service
+,25818,,No service,No service,No service
+,25820,,No service,No service,No service
+,25823,,No service,No service,No service
+,25825,,No service,No service,No service
+,25826,,No service,No service,No service
+,25827,,No service,No service,No service
+,25831,,No service,No service,No service
+,25832,,No service,No service,No service
+,25836,,No service,No service,No service
+,25837,,No service,No service,No service
+,25839,,No service,No service,No service
+,25840,,No service,No service,No service
+,25841,,No service,No service,No service
+,25843,,No service,No service,No service
+,25844,,No service,No service,No service
+,25845,,No service,No service,No service
+,25846,,No service,No service,No service
+,25848,,No service,No service,No service
+,25849,,No service,No service,No service
+,25851,,No service,No service,No service
+,25853,,No service,No service,No service
+,25854,,No service,No service,No service
+,25855,,No service,No service,No service
+,25857,,No service,No service,No service
+,25862,,No service,No service,No service
+,25864,,No service,No service,No service
+,25865,,No service,No service,No service
+,25866,,No service,No service,No service
+,25868,,No service,No service,No service
+,25870,,No service,No service,No service
+,25871,,No service,No service,No service
+,25873,,No service,No service,No service
+,25875,,No service,No service,No service
+,25876,,No service,No service,No service
+,25878,,No service,No service,No service
+,25879,,No service,No service,No service
+,25880,,No service,No service,No service
+,25882,,No service,No service,No service
+,25901,,No service,No service,No service
+,25902,,No service,No service,No service
+,25904,,No service,No service,No service
+,25907,,No service,No service,No service
+,25908,,No service,No service,No service
+,25909,,No service,No service,No service
+,25911,,No service,No service,No service
+,25913,,No service,No service,No service
+,25915,,No service,No service,No service
+,25916,,No service,No service,No service
+,25917,,No service,No service,No service
+,25918,,No service,No service,No service
+,25920,,No service,No service,No service
+,25921,,No service,No service,No service
+,25922,,No service,No service,No service
+,25928,,No service,No service,No service
+,25932,,No service,No service,No service
+,25936,,No service,No service,No service
+,25938,,No service,No service,No service
+,25942,,No service,No service,No service
+,25943,,No service,No service,No service
+,25951,,No service,No service,No service
+,25958,,No service,No service,No service
+,25962,,No service,No service,No service
+,25966,,No service,No service,No service
+,25969,,No service,No service,No service
+,25971,,No service,No service,No service
+,25972,,No service,No service,No service
+,25976,,No service,No service,No service
+,25977,,No service,No service,No service
+,25978,,No service,No service,No service
+,25979,,No service,No service,No service
+,25981,,No service,No service,No service
+,25984,,No service,No service,No service
+,25985,,No service,No service,No service
+,25986,,No service,No service,No service
+,25989,,No service,No service,No service
+,26003,,No service, 99% available in 26003,No service
+,26030,,No service,No service,No service
+,26031,,No service, 99% available in 26031,No service
+,26032,,No service, 99% available in 26032,No service
+,26033,,No service,No service,No service
+,26034,,No service, 99% available in 26034,No service
+,26035,,No service, 99% available in 26035,No service
+,26036,,No service,No service,No service
+,26037,,No service, 99% available in 26037,No service
+,26038,,No service, 99% available in 26038,No service
+,26039,,No service,No service,No service
+,26040,,No service, 99% available in 26040,No service
+,26041,,No service, 99% available in 26041,No service
+,26047,,No service, 99% available in 26047,No service
+,26050,,No service, 99% available in 26050,No service
+,26055,,No service,No service,No service
+,26056,,No service, 99% available in 26056,No service
+,26058,,No service,No service,No service
+,26059,,No service, 99% available in 26059,No service
+,26060,,No service, 99% available in 26060,No service
+,26062,,No service, 99% available in 26062,No service
+,26070,,No service, 99% available in 26070,No service
+,26074,,No service, 99% available in 26074,No service
+,26075,,No service,No service,No service
+,26101,,No service,No service,No service
+,26104,,No service,No service,No service
+,26105,,No service,No service,No service
+,26133,,No service,No service,No service
+,26134,,No service,No service,No service
+,26136,,No service,No service,No service
+,26137,,No service,No service,No service
+,26138,,No service,No service,No service
+,26141,,No service,No service,No service
+,26142,,No service,No service,No service
+,26143,,No service,No service,No service
+,26146,,No service,No service,No service
+,26147,,No service,No service,No service
+,26148,,No service,No service,No service
+,26149,,No service,No service,No service
+,26150,,No service,No service,No service
+,26151,,No service,No service,No service
+,26152,,No service,No service,No service
+,26155,,No service,No service,No service
+,26159,,No service,No service,No service
+,26160,,No service,No service,No service
+,26161,,No service,No service,No service
+,26162,,No service,No service,No service
+,26164,,No service,No service,No service
+,26167,,No service,No service,No service
+,26169,,No service,No service,No service
+,26170,,No service,No service,No service
+,26175,,No service,No service,No service
+,26178,,No service,No service,No service
+,26180,,No service,No service,No service
+,26181,,No service,No service,No service
+,26184,,No service,No service,No service
+,26187,,No service,No service,No service
+,26201,,No service,No service,No service
+,26202,,No service,No service,No service
+,26203,,No service,No service,No service
+,26205,,No service,No service,No service
+,26206,,No service,No service,No service
+,26208,,No service,No service,No service
+,26209,,No service,No service,No service
+,26210,,No service,No service,No service
+,26215,,No service,No service,No service
+,26217,,No service,No service,No service
+,26218,,No service,No service,No service
+,26222,,No service,No service,No service
+,26224,,No service,No service,No service
+,26228,,No service,No service,No service
+,26230,,No service,No service,No service
+,26234,,No service,No service,No service
+,26236,,No service,No service,No service
+,26237,,No service,No service,No service
+,26238,,No service,No service,No service
+,26241,,No service,No service,No service
+,26250,,No service,No service,No service
+,26253,,No service,No service,No service
+,26254,,No service,No service,No service
+,26257,,No service,No service,No service
+,26259,,No service,No service,No service
+,26260,,No service,No service,No service
+,26261,,No service,No service,No service
+,26263,,No service,No service,No service
+,26264,,No service,No service,No service
+,26266,,No service,No service,No service
+,26267,,No service,No service,No service
+,26268,,No service,No service,No service
+,26269,,No service,No service,No service
+,26270,,No service,No service,No service
+,26271,,No service,No service,No service
+,26273,,No service,No service,No service
+,26275,,No service,No service,No service
+,26276,,No service,No service,No service
+,26278,,No service,No service,No service
+,26280,,No service,No service,No service
+,26282,,No service,No service,No service
+,26283,,No service,No service,No service
+,26285,,No service,No service,No service
+,26287,,No service,No service,No service
+,26288,,No service,No service,No service
+,26289,,No service,No service,No service
+,26291,,No service,No service,No service
+,26292,,No service,No service,No service
+,26293,,No service,No service,No service
+,26294,,No service,No service,No service
+,26296,,No service,No service,No service
+,26298,,No service,No service,No service
+,26301,,No service,No service,No service
+,26320,,No service,No service,No service
+,26321,,No service,No service,No service
+,26323,,No service,No service,No service
+,26325,,No service,No service,No service
+,26327,,No service,No service,No service
+,26330,,No service,No service,No service
+,26335,,No service,No service,No service
+,26337,,No service,No service,No service
+,26338,,No service,No service,No service
+,26339,,No service,No service,No service
+,26342,,No service,No service,No service
+,26343,,No service,No service,No service
+,26346,,No service,No service,No service
+,26347,,No service,No service,No service
+,26348,,No service,No service,No service
+,26349,,No service,No service,No service
+,26351,,No service,No service,No service
+,26354,,No service, 99% available in 26354,No service
+,26361,,No service,No service,No service
+,26362,,No service,No service,No service
+,26366,,No service,No service,No service
+,26369,,No service,No service,No service
+,26372,,No service,No service,No service
+,26374,,No service, 99% available in 26374,No service
+,26376,,No service,No service,No service
+,26377,,No service,No service,No service
+,26378,,No service,No service,No service
+,26384,,No service,No service,No service
+,26385,,No service,No service,No service
+,26386,,No service,No service,No service
+,26404,,No service,No service,No service
+,26405,,No service,No service,No service
+,26408,,No service,No service,No service
+,26410,,No service,No service,No service
+,26411,,No service,No service,No service
+,26412,,No service,No service,No service
+,26415,,No service,No service,No service
+,26416,,No service,No service,No service
+,26419,,No service,No service,No service
+,26421,,No service,No service,No service
+,26422,,No service,No service,No service
+,26422,,No service,No service,No service
+,26424,,No service, 99% available in 26425,No service
+,26425,,No service,No service,No service
+,26426,,No service,No service,No service
+,26430,,No service,No service,No service
+,26431,,No service,No service,No service
+,26435,,No service,No service,No service
+,26436,,No service,No service,No service
+,26437,,No service,No service,No service
+,26438,,No service,No service,No service
+,26440,,No service,No service,No service
+,26443,,No service,No service,No service
+,26444,,No service,No service,No service
+,26447,,No service,No service,No service
+,26448,,No service,No service,No service
+,26451,,No service,No service,No service
+,26452,,No service,No service,No service
+,26456,,No service,No service,No service
+,26463,,No service, 99% available in 26501,No service
+,26501,,No service, 99% available in 26505,No service
+,26505,,No service,No service,No service
+,26506,,No service, 99% available in 26508,No service
+,26508,,No service, 45% available in 26519,No service
+,26519,,No service,No service,No service
+,26520,,No service,No service,No service
+,26521,,No service,No service,No service
+,26524,,No service, 54% available in 26525,No service
+,26525,,No service, 99% available in 26534,No service
+,26534,,No service,No service,No service
+,26537,,No service, 99% available in 26541,No service
+,26541,,No service,No service,No service
+,26542,,No service, 99% available in 26543,No service
+,26543,,No service,No service,No service
+,26544,,No service, 99% available in 26546,No service
+,26546,,No service,No service,No service
+,26547,,No service, 93% available in 26554,No service
+,26554,,No service,No service,No service
+,26559,,No service, 99% available in 26560,No service
+,26560,,No service,No service,No service
+,26562,,No service, 99% available in 26563,No service
+,26563,,No service,No service,No service
+,26568,,No service,No service,No service
+,26570,,No service, 99% available in 26571,No service
+,26571,,No service,No service,No service
+,26572,,No service,No service,No service
+,26574,,No service,No service,No service
+,26575,,No service,No service,No service
+,26576,,No service,No service,No service
+,26581,,No service, 61% available in 26582,No service
+,26582,,No service,No service,No service
+,26585,,No service,No service,No service
+,26586,,No service,No service,No service
+,26587,,No service,No service,No service
+,26588,,No service,No service,No service
+,26590,,No service,No service,No service
+,26591,,No service,No service,No service
+,26601,,No service,No service,No service
+,26610,,No service,No service,No service
+,26611,,No service,No service,No service
+,26615,,No service,No service,No service
+,26617,,No service,No service,No service
+,26619,,No service,No service,No service
+,26621,,No service,No service,No service
+,26623,,No service,No service,No service
+,26624,,No service,No service,No service
+,26627,,No service,No service,No service
+,26629,,No service,No service,No service
+,26631,,No service,No service,No service
+,26636,,No service,No service,No service
+,26638,,No service,No service,No service
+,26651,,No service,No service,No service
+,26656,,No service,No service,No service
+,26660,,No service,No service,No service
+,26662,,No service,No service,No service
+,26667,,No service,No service,No service
+,26671,,No service,No service,No service
+,26676,,No service,No service,No service
+,26678,,No service,No service,No service
+,26679,,No service,No service,No service
+,26680,,No service,No service,No service
+,26681,,No service,No service,No service
+,26684,,No service,No service,No service
+,26690,,No service,No service,No service
+,26691,,No service,No service,No service
+,26704,,No service,No service,No service
+,26705,,No service,No service,No service
+,26707,,No service,No service,No service
+,26710,,No service,No service,No service
+,26711,,No service,No service,No service
+,26714,,No service,No service,No service
+,26716,,No service,No service,No service
+,26717,,No service,No service,No service
+,26719,,No service,No service,No service
+,26720,,No service,No service,No service
+,26722,,No service,No service,No service
+,26726,,No service,No service,No service
+,26731,,No service,No service,No service
+,26739,,No service,No service,No service
+,26743,,No service,No service,No service
+,26750,,No service,No service,No service
+,26753,,No service,No service,No service
+,26755,,No service,No service,No service
+,26757,,No service,No service,No service
+,26761,,No service,No service,No service
+,26763,,No service,No service,No service
+,26764,,No service,No service,No service
+,26767,,No service,No service,No service
+,26801,,No service,No service,No service
+,26802,,No service,No service,No service
+,26804,,No service,No service,No service
+,26807,,No service,No service,No service
+,26808,,No service,No service,No service
+,26810,,No service,No service,No service
+,26812,,No service,No service,No service
+,26814,,No service,No service,No service
+,26815,,No service,No service,No service
+,26817,,No service,No service,No service
+,26818,,No service,No service,No service
+,26823,,No service,No service,No service
+,26833,,No service,No service,No service
+,26836,,No service,No service,No service
+,26838,,No service,No service,No service
+,26845,,No service,No service,No service
+,26847,,No service,No service,No service
+,26851,,No service,No service,No service
+,26852,,No service,No service,No service
+,26855,,No service,No service,No service
+,26865,,No service,No service,No service
+,26866,,No service,No service,No service
+,26884,,No service,No service,No service
+,26886,,No service,,

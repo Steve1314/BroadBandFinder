@@ -1,0 +1,616 @@
+City,Zip Code, Sepctrum Business, Comcast Business, AT&T Business 
+Alma,72959,No service,No service,No service
+Alpena,72958,No service,No service,No service
+Altheimer,72956,No service,No service,No service
+Altus,72955,No service,No service,No service
+Amity,72952,No service,No service,No service
+Arkadelphia,72951,No service,No service,No service
+Ashdown,72950,No service,No service,No service
+Atkins,72949,No service,No service,No service
+Augusta,72948,No service,No service,No service
+Austin,72947,No service,No service,No service
+Bald Knob,72946,No service,No service,No service
+Barling,72945,No service,No service,No service
+Batesville,72944,No service,No service,No service
+Bauxite,72943,No service,No service,No service
+Bay,72941,No service,No service,No service
+Beebe,72940,No service,No service,No service
+Bella Vista,72938,No service,No service,No service
+Benton,72937,No service,No service,No service
+Bentonville,72936,No service,No service,No service
+Berryville,72935,No service,No service,No service
+Bigelow,72934,No service,No service,No service
+Black Rock,72933,No service,No service,No service
+Blytheville,72932,No service,No service,No service
+Booneville,72930,No service,No service,No service
+Bradford,72928,No service,No service,No service
+Brinkley,72927,No service,No service,No service
+Bryant,72926,No service,No service,No service
+Bull Shoals,72923,No service,No service, 38% available in 72923
+Cabot,72921,No service,No service,No service
+Caddo Valley,72916,No service,No service, 44% available in 72916
+Calico Rock,72908,No service,No service,No service
+Camden,72905,No service,No service,No service
+Caraway,72904,No service,No service, 59% available in 72904
+Carlisle,72903,No service,No service, 34% available in 72903
+Cave City,72901,No service,No service, 43% available in 72901
+Cave Springs,72865,No service,No service,No service
+Centerton,72863,No service,No service,No service
+Charleston,72860,No service,No service,No service
+Cherry Valley,72858,No service,No service,No service
+Clarendon,72857,No service,No service,No service
+Clarksville,72856,No service,No service,No service
+Clinton,72855,No service,No service,No service
+Conway,72854,No service,No service,No service
+Corning,72853,No service,No service,No service
+Cotton Plant,72852,No service,No service,No service
+Crossett,72851,No service,No service,No service
+Danville,72847,No service,No service,No service
+Dardanelle,72846,No service,No service,No service
+De Queen,72845,No service,No service,No service
+De Valls Bluff,72843,No service,No service,No service
+DeWitt,72842,No service,No service,No service
+Decatur,72841,No service,No service,No service
+Dermott,72840,No service,No service,No service
+Des Arc,72839,No service,No service,No service
+Diamond City,72838,No service,No service,No service
+Dierks,72837,No service,No service,No service
+Dover,72835,No service,No service,No service
+Dumas,72834,No service,No service,No service
+E - M,72833,No service,No service,No service
+Earle,72832,No service,No service,No service
+East Camden,72830,No service,No service,No service
+El Dorado,72829,No service,No service,No service
+Elkins,72828,No service,No service,No service
+Elm Springs,72827,No service,No service,No service
+England,72826,No service,No service,No service
+Eureka Springs,72824,No service,No service,No service
+Fairfield Bay,72823,No service,No service,No service
+Farmington,72821,No service,No service,No service
+Fayetteville,72802,No service,No service,No service
+Flippin,72801,No service,No service,No service
+Fordyce,72776,No service,No service,No service
+Foreman,72774,No service,No service,No service
+Forrest City,72773,No service,No service,No service
+Fort Smith,72769,No service,No service,No service
+Fouke,72768,No service,No service,No service
+Gentry,72764,No service,No service, 36% available in 72764
+Glenwood,72762,No service,No service, 52% available in 72762
+Gosnell,72761,No service,No service,No service
+Gould,72760,No service,No service,No service
+Green Forest,72758,No service,No service, 67% available in 72758
+Greenbrier,72756,No service,No service, 35% available in 72756
+Greenland,72753,No service,No service,No service
+Greenwood,72752,No service,No service,No service
+Greers Ferry,72751,No service,No service,No service
+Gurdon,72749,No service,No service,No service
+Hamburg,72747,No service,No service,No service
+Hardy,72745,No service,No service, 47% available in 72745
+Harrisburg,72744,No service,No service,No service
+Harrison,72742,No service,No service,No service
+Hartford,72740,No service,No service,No service
+Haskell,72739,No service,No service,No service
+Hazen,72738,No service,No service,No service
+Heber Springs,72736,No service,No service,No service
+Helena-West Helena,72734,No service,No service,No service
+Hermitage,72732,No service,No service,No service
+Highland,72730,No service,No service,No service
+Hope,72729,No service,No service,No service
+Hot Springs,72727,No service,No service,No service
+Hoxie,72722,No service,No service,No service
+Hughes,72721,No service,No service,No service
+Humphrey,72719,No service,No service,No service
+Huntsville,72718,no servicen,No service, 39% available in 72718
+Jacksonville,72717,No service,No service,No service
+Jasper,72715,No service,No service,No service
+Jonesboro,72714,No service,No service,No service
+Judsonia,72713,No service,No service,No service
+Lake City,72712,No service,No service, 41% available in 72712
+Lake Village,72704,No service,No service, 48% available in 72704
+Lavaca,72703,No service,No service, 41% available in 72703
+Leachville,72701,No service,No service, 43% available in 72701
+Lepanto,72687,No service,No service,No service
+Lincoln,72686,No service,No service,No service
+Little Flock,72685,No service,No service,No service
+Little Rock (State Capital),72683,No service,No service,No service
+Lonoke,72682,No service,No service,No service
+Lowell,72680,No service,No service,No service
+Luxora,72679,No service,No service,No service
+Magnolia,72677,No service,No service,No service
+Malvern,72675,No service,No service,No service
+Manila,72672,No service,No service,No service
+Mansfield,72670,No service,No service,No service
+Marianna,72669,No service,No service,No service
+Marion,72668,No service,No service,No service
+Marked Tree,72666,No service,No service,No service
+Marmaduke,72663,No service,No service,No service
+Marshall,72662,No service,No service,No service
+Maumelle,72661,No service,No service,No service
+Mayflower,72660,No service,No service,No service
+McCrory,72658,No service,No service,No service
+McGehee,72655,No service,No service,No service
+Melbourne,72653,No service,No service,No service
+Mena,72651,No service,No service,No service
+Monticello,72650,No service,No service,No service
+Morrilton,72648,No service,No service,No service
+Mountain Home,72645,No service,No service,No service
+Mountain View,72644,No service,No service,No service
+Mount Ida,72642,No service,No service,No service
+Mulberry,72641,No service,No service,No service
+N - Z,72640,No service,No service,No service
+Nashville,72639,No service,No service,No service
+Newport,72638,No service,No service,No service
+North Little Rock,72636,No service,No service,No service
+Ola,72635,No service,No service,No service
+Osceola,72634,No service,No service,No service
+Ozark,72633,No service,No service,No service
+Paragould,72632,No service,No service,No service
+Paris,72631,No service,No service,No service
+Pea Ridge,72630,No service,No service,No service
+Perryville,72629,No service,No service,No service
+Pine Bluff,72628,No service,No service,No service
+Pocahontas,72626,No service,No service,No service
+Pottsville,72624,No service,No service,No service
+Prairie Grove,72623,No service,No service,No service
+Prescott,72619,No service,No service,No service
+Quitman,72617,No service,No service,No service
+Rector,72616,No service,No service,No service
+Redfield,72615,No service,No service,No service
+Rison,72611,No service,No service,No service
+Rogers,72601,No service,No service,No service
+Russellville,72587,No service,No service,No service
+Salem,72585,No service,No service,No service
+Searcy,72584,No service,No service,No service
+Sheridan,72583,No service,No service,No service
+Sherwood,72581,No service,No service,No service
+Siloam Springs,72579,No service,No service,No service
+Smackover,72578,No service,No service,No service
+Southside,72577,No service,No service,No service
+Springdale,72576,No service,No service,No service
+Star City,72573,No service,No service,No service
+Stuttgart,72572,No service,No service,No service
+Texarkana,72571,No service,No service,No service
+Trumann,72569,No service,No service,No service
+Tuckerman,72568,No service,No service,No service
+Van Buren,72567,No service,No service,No service
+Waldron,72566,No service,No service,No service
+Walnut Ridge,72565,No service,No service,No service
+Warren,72564,No service,No service,No service
+West Fork,72562,No service,No service,No service
+West Memphis,72561,No service,No service,No service
+White Hall,72560,No service,No service,No service
+Wrightsville,72556,No service,No service,No service
+Wynne,72555,No service,No service,No service
+Yellville,72554,No service,No service,No service
+,72553,No service,No service,No service
+,72550,No service,No service,No service
+,72546,No service,No service,No service
+,72544,No service,No service,No service
+,72543,No service,No service,No service
+,72542,No service,No service,No service
+,72540,No service,No service,No service
+,72539,No service,No service,No service
+,72538,No service,No service,No service
+,72537,No service,No service,No service
+,72536,No service,No service,No service
+,72534,No service,No service,No service
+,72533,No service,No service,No service
+,72532,No service,No service,No service
+,72531,No service,No service,No service
+,72530,No service,No service,No service
+,72529,No service,No service,No service
+,72528,No service,No service,No service
+,72527,No service,No service,No service
+,72526,No service,No service,No service
+,72524,No service,No service,No service
+,72523,No service,No service,No service
+,72522,No service,No service,No service
+,72521,No service,No service,No service
+,72520,No service,No service,No service
+,72519,No service,No service,No service
+,72517,No service,No service,No service
+,72515,No service,No service,No service
+,72513,No service,No service,No service
+,72512,No service,No service,No service
+,72501,No service,No service, 15% available in 72501
+,72482,No service,No service,No service
+,72479,No service,No service,No service
+,72478,No service,No service,No service
+,72476,No service,No service,No service
+,72473,No service,No service,No service
+,72472,No service,No service,No service
+,72471,No service,No service,No service
+,72470,No service,No service,No service
+,72469,No service,No service,No service
+,72467,No service,No service,No service
+,72466,No service,No service,No service
+,72464,No service,No service,No service
+,72462,No service,No service,No service
+,72461,No service,No service,No service
+,72460,No service,No service,No service
+,72459,No service,No service,No service
+,72458,No service,No service,No service
+,72457,No service,No service,No service
+,72456,No service,No service,No service
+,72455,No service,No service,No service
+,72454,No service,No service,No service
+,72453,No service,No service,No service
+,72450,No service,No service,No service
+,72449,No service,No service,No service
+,72447,No service,No service,No service
+,72445,No service,No service,No service
+,72444,No service,No service,No service
+,72443,No service,No service,No service
+,72442,No service,No service,No service
+,72441,No service,No service,No service
+,72440,No service,No service,No service
+,72438,No service,No service,No service
+,72437,No service,No service,No service
+,72436,No service,No service,No service
+,72435,No service,No service,No service
+,72434,No service,No service,No service
+,72433,No service,No service,No service
+,72432,No service,No service,No service
+,72431,No service,No service,No service
+,72430,No service,No service,No service
+,72429,No service,No service,No service
+,72428,No service,No service,No service
+,72427,No service,No service,No service
+,72426,No service,No service,No service
+,72425,No service,No service,No service
+,72424,No service,No service,No service
+,72422,No service,No service,No service
+,72421,No service,No service,No service
+,72419,No service,No service,No service
+,72417,No service,No service,No service
+,72416,No service,No service, 31% available in 72416
+,72415,No service,No service,No service
+,72414,No service,No service,No service
+,72413,No service,No service,No service
+,72412,No service,No service,No service
+,72411,No service,No service,No service
+,72410,No service,No service,No service
+,72405,No service,No service,No service
+,72404,No service,No service, 35% available in 72404
+,72401,No service,No service, 34% available in 72401
+,72396,No service,No service,No service
+,72395,No service,No service,No service
+,72394,No service,No service,No service
+,72392,No service,No service,No service
+,72391,No service,No service,No service
+,72390,No service,No service,No service
+,72389,No service,No service,No service
+,72387,No service,No service,No service
+,72386,No service,No service,No service
+,72384,No service,No service,No service
+,72383,No service,No service,No service
+,72379,No service,No service,No service
+,72377,No service,No service,No service
+,72376,No service,No service,No service
+,72374,No service,No service,No service
+,72373,no service, 99% available in 72373,No service
+,72372,no service,No service,No service
+,72370,no service,No service,No service
+,72369,no service,No service,No service
+,72368,no service,No service,No service
+,72367,no service,No service,No service
+,72366,no service,No service,No service
+,72365,no service,No service,No service
+,72364,no service, 95% available in 72364,No service
+,72360,no service,No service,No service
+,72359,no service,No service,No service
+,72358,no service,No service,No service
+,72355,no service,No service,No service
+,72354,no service,No service,No service
+,72353,no service,No service,No service
+,72352,no service,No service,No service
+,72351,no service,No service,No service
+,72350,no service,No service,No service
+,72348,no service,No service,No service
+,72347,no service,No service,No service
+,72346,no service,No service,No service
+,72342,no service,No service,No service
+,72341,no service,No service,No service
+,72340,no service,No service,No service
+,72339,no service,No service,No service
+,72338,no service,No service,No service
+,72335,no service,No service,No service
+,72333,no service,No service,No service
+,72332,no service,No service,No service
+,72331,no service, 62% available in 72331,No service
+,72330,no service,No service,No service
+,72329,no service,No service,No service
+,72328,no service,No service,No service
+,72327,no service,No service,No service
+,72326,no service,No service,No service
+,72325,no service,No service,No service
+,72324,no service,No service,No service
+,72322,no service,No service,No service
+,72320,no service,No service,No service
+,72315,no service,No service,No service
+,72313,no service,No service,No service
+,72311,no service,No service,No service
+,72301,no service, 99% available in 72301,No service
+,72227,no service, 99% available in 72227, 49% available in 72227
+,72223,no service, 99% available in 72223, 56% available in 72223
+,72212,no service,99% available in 72212, 55% available in 72212
+,72211,no service, 99% available in 72211, 54% available in 72211
+,72210,no service, 99% available in 72210, 43% available in 72210
+,72209,no service, 99% available in 72209, 51% available in 72209
+,72207,no service, 99% available in 72207, 72% available in 72207
+,72206,no service, 99% available in 72206, 33% available in 72206
+,72205,no service, 99% available in 72205, 63% available in 72205
+,72204,no service, 99% available in 72204, 58% available in 72204
+,72202,no service, 99% available in 72202, 33% available in 72202
+,72201,no service, 99% available in 72201,No service
+,72199,no service,No service,No service
+,72183,no service,No service,No service
+,72182,no service,No service,No service
+,72181,no service,No service,No service
+,72180,no service,No service,No service
+,72179,no service,No service,No service
+,72178,no service,No service,No service
+,72176,no service,No service,No service
+,72175,no service,No service,No service
+,72173,no service,No service,No service
+,72170,no service,No service,No service
+,72169,no service,No service,No service
+,72168,no service,No service,No service
+,72167,no service,No service,No service
+,72166,no service,No service,No service
+,72165,no service,No service,No service
+,72160,no service,No service,No service
+,72157,no service,No service,No service
+,72156,no service,No service,No service
+,72153,no service,No service,No service
+,72152,no service,No service,No service
+,72150,no service,No service,No service
+,72143,no service,No service, 36% available in 72143
+,72142,no service,No service, 25% available in 72142
+,72141,no service,No service,No service
+,72140,no service,No service,No service
+,72139,no service,No service,No service
+,72137,no service,No service,No service
+,72136,no service,No service,No service
+,72135,no service, 65% available in 72135,No service
+,72134,no service,No service,No service
+,72133,no service,No service,No service
+,72132,no service,No service,No service
+,72131,no service,No service,No service
+,72130,no service,No service,No service
+,72129,no service,No service,No service
+,72128,no service,No service,No service
+,72127,no service,No service,No service
+,72126,no service,No service,No service
+,72125,no service,No service,No service
+,72123,no service,No service,No service
+,72122,no service, 50% available in 72122,No service
+,72121,no service,No service,No service
+,72120,no service, 99% available in 72120, 63% available in 72120
+,72119,no service,No service,No service
+,72118,no service, 99% available in 72118, 63% available in 72118
+,72117,no service, 99% available in 72117, 55% available in 72117
+,72116,no service, 99% available in 72116, 67% available in 72116
+,72114,no service, 99% available in 72114, 41% available in 72114
+,72113,no service,No service, 71% available in 72113
+,72112,no service,No service,No service
+,72111,no service,No service,No service
+,72110,no service,No service,No service
+,72108,no service,No service,No service
+,72107,no service,No service,No service
+,72106,no service,No service,No service
+,72104,no service,No service,No service
+,72103,no service, 89% available in 72103, 27% available in 72103
+,72102,no service,No service,No service
+,72101,no service,No service,No service
+,72099,no service,No service,No service
+,72088,no service,No service,No service
+,72087,no service,No service,No service
+,72086,no service,No service,No service
+,72085,no service,No service,No service
+,72084,no service,No service,No service
+,72083,no service,No service,No service
+,72082,no service,No service,No service
+,72081,no service,No service,No service
+,72080,no service,No service,No service
+,72079,no service,No service,No service
+,72076,no service, 93% available in 72076,No service
+,72075,no service,No service,No service
+,72074,no service,No service,No service
+,72073,no service,No service,No service
+,72072,no service,No service,No service
+,72070,no service,No service,No service
+,72069,no service,No service,No service
+,72068,no service,No service,No service
+,72067,no service,No service,No service
+,72066,no service,No service,No service
+,72065,no service,No service, 31% available in 72065
+,72064,no service,No service,No service
+,72063,no service,No service,No service
+,72061,no service,No service,No service
+,72060,no service,No service,No service
+,72059,no service,No service,No service
+,72058,no service,No service,No service
+,72057,no service,No service,No service
+,72055,no service,No service,No service
+,72053,no service, 99% available in 72053,No service
+,72052,no service,No service,No service
+,72051,no service,No service,No service
+,72048,no service,No service,No service
+,72047,no service,No service,No service
+,72046,no service,No service,No service
+,72045,no service,No service,No service
+,72044,no service,No service,No service
+,72042,no service,No service,No service
+,72041,no service,No service,No service
+,72040,no service,No service,No service
+,72039,no service,No service,No service
+,72038,no service,No service,No service
+,72036,no service,No service,No service
+,72035,no service,No service,No service
+,72034,no service,No service, 40% available in 72034
+,72032,no service,No service, 21% available in 72032
+,72031,no service,No service,No service
+,72030,no service,No service,No service
+,72029,no service,No service,No service
+,72028,no service,No service,No service
+,72027,no service,No service,No service
+,72026,no service,No service,No service
+,72025,no service,No service,No service
+,72024,no service,No service,No service
+,72023,no service,No service,No service
+,72022,no service, 82% available in 72022, 82% available in 72022
+,72021,no service,No service,No service
+,72020,no service,No service,No service
+,72019,no service,No service, 43% available in 72019
+,72017,no service,No service,No service
+,72016,no service,No service,No service
+,72015,no service,No service, 54% available in 72015
+,72014,no service,No service,No service
+,72013,no service,No service,No service
+,72012,no service,No service,No service
+,72011,no service,No service,No service
+,72010,no service,No service,No service
+,72007,no service,No service,No service
+,72006,no service,No service,No service
+,72005,no service,No service,No service
+,72004,no service,No service,No service
+,72003,no service,No service,No service
+,72002,no service, 99% available in 72002, 42% available in 72002
+,72001,no service,No service,No service
+,71999,no service,No service,No service
+,71998,no service,No service,No service
+,71973,no service,No service,No service
+,71972,no service,No service,No service
+,71971,no service,No service,No service
+,71970,no service,No service,No service
+,71969,no service,No service,No service
+,71968,no service,No service,No service
+,71965,no service,No service,No service
+,71964,no service,No service,No service
+,71962,no service,No service,No service
+,71961,no service,No service,No service
+,71960,no service,No service,No service
+,71959,no service,No service,No service
+,71958,no service,No service,No service
+,71957,no service,No service,No service
+,71956,no service,No service,No service
+,71953,no service,No service,No service
+,71952,no service,No service,No service
+,71950,no service,No service,No service
+,71949,no service,No service,No service
+,71945,no service,No service,No service
+,71944,no service,No service,No service
+,71943,no service,No service,No service
+,71942,no service,No service,No service
+,71941,no service,No service,No service
+,71940,no service,No service,No service
+,71937,no service,No service,No service
+,71935,no service,No service,No service
+,71933,no service,No service,No service
+,71929,no service,No service,No service
+,71923,no service,No service,No service
+,71922,no service,No service,No service
+,71921,no service,No service,No service
+,71913,no service,No service, 33% available in 71913
+,71909,no service,No service,No service
+,71901,no service,No service, 17% available in 71901
+,71866,no service,No service,No service
+,71865,no service,No service,No service
+,71864,no service,No service,No service
+,71862,no service,No service,No service
+,71861,no service,No service,No service
+,71860,no service,No service,No service
+,71859,no service,No service,No service
+,71858,no service,No service,No service
+,71857,no service,No service,No service
+,71855,no service,No service,No service
+,71854,no service,No service,No service
+,71853,no service,No service,No service
+,71852,no service,No service,No service
+,71851,no service,No service,No service
+,71847,no service,No service,No service
+,71846,no service,No service,No service
+,71845,no service,No service,No service
+,71842,no service,No service,No service
+,71841,no service,No service,No service
+,71839,no service,No service,No service
+,71838,no service,No service,No service
+,71837,no service,No service,No service
+,71836,no service,No service,No service
+,71835,no service,No service,No service
+,71834,no service,No service,No service
+,71833,no service,No service,No service
+,71832,no service,No service,No service
+,71831,no service,No service,No service
+,71827,no service,No service,No service
+,71826,no service,No service,No service
+,71825,no service,No service,No service
+,71823,no service,No service,No service
+,71822,no service,No service,No service
+,71820,no service,No service,No service
+,71801,no service,No service,No service
+,71772,no service,No service,No service
+,71770,no service,No service,No service
+,71766,no service,No service,No service
+,71765,no service,No service,No service
+,71764,no service,No service,No service
+,71763,no service,No service,No service
+,71762,no service,No service,No service
+,71759,no service,No service,No service
+,71758,no service,No service,No service
+,71753,no service,No service,No service
+,71752,no service,No service,No service
+,71751,no service,No service,No service
+,71749,no service,No service,No service
+,71748,no service,No service,No service
+,71747,no service,No service,No service
+,71745,no service,No service,No service
+,71744,no service,No service,No service
+,71743,no service,No service,No service
+,71742,no service,No service,No service
+,71740,no service,No service,No service
+,71730,no service,No service,No service
+,71728,no service,No service,No service
+,71726,no service,No service,No service
+,71725,no service,No service,No service
+,71724,no service,No service,No service
+,71722,no service,No service,No service
+,71721,no service,No service,No service
+,71720,no service,No service,No service
+,71701,no service,No service,No service
+,71678,no service,No service,No service
+,71677,no service,No service,No service
+,71676,no service,No service,No service
+,71675,no service,No service,No service
+,71674,no service,No service,No service
+,71671,no service,No service,No service
+,71670,no service,No service,No service
+,71667,no service,No service,No service
+,71666,no service,No service,No service
+,71665,no service,No service,No service
+,71663,no service,No service,No service
+,71662,no service,No service,No service
+,71661,no service,No service,No service
+,71660,no service,No service,No service
+,71659,no service,No service,No service
+,71658,no service,No service,No service
+,71655,no service,No service, 20% available in 71655
+,71654,no service,No service,No service
+,71653,no service,No service,No service
+,71652,no service,No service,No service
+,71651,no service,No service,No service
+,71647,no service,No service,No service
+,71646,no service,No service,No service
+,71644,no service,No service,No service
+,71643,no service,No service,No service
+,71642,no service,No service,No service
+,71640,no service,No service,No service
+,71639,no service,No service,No service
+,71638,no service,No service,No service
+,71635,no service,No service,No service
+,71631,no service,No service,No service
+,71630,no service,No service,No service
+,71603,no service,No service,No service
+,71602,no service,No service,No service
+,71601,no service,No service,No service

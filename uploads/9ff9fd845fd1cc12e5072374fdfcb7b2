@@ -1,0 +1,528 @@
+City,Zip Code,S.B. Zip, Sepctrum Business,Comcast Business, AT&T Business 
+Alamosa,80002,"    81058,", 20% available in 81058,99%availablein80002,No Service
+Alamosa County,80003,"    81435,", 22% available in 81435,99%availablein80003,No Service
+Brookside,80004,"    80461,", 30% available in 80461,99%availablein80004,No Service
+Brush,80005,"    81050,", 36% available in 81050,99%availablein80005,No Service
+Buena Vista,80007,"    81067,", 38% available in 81067,99%availablein80007,No Service
+Canon City,80010,"    81201,", 39% available in 81201,99%availablein80010,No Service
+Chaffee County,80011,"    81052,", 44% available in 81052,99%availablein80011,No Service
+Clifton,80012,"    80751,", 56% available in 80751,99%availablein80012,No Service
+Coal Creek,80013,"    81503,", 59% available in 81503,99%availablein80013,No Service
+Colorado Springs,80014,"    81507,", 69% available in 81507,99%availablein80014,No Service
+Craig,80015,"    80705,", 77% available in 80705,99%availablein80015,No Service
+Crested Butte,80016,"    81641,",22% available in 81641,99%availablein80016,No Service
+Delta,80017,"    81428,",25% available in 81428,99%availablein80017,No Service
+Delta County,80018,"    81303,",26% available in 81303,99%availablein80018,No Service
+Denver,80019,"    81403,",26% available in 81403,99%availablein80019,No Service
+Dolores,80020,"    81639,",26% available in 81639,99%availablein80020,No Service
+Durango,80021,"    81221,",28% available in 81221,99%availablein80021,No Service
+Englewood,80022,"    81224,",29% available in 81224,99%availablein80022,No Service
+Florence,80023,"    81144,",32% available in 81144,99%availablein80023,No Service
+Fort Morgan,80024,"    81211,",33% available in 81211,99%availablein80024,No Service
+Fowler,80025,"    81244,",33% available in 81244,No Service,No Service
+Fremont County,80026,"    81039,",34% available in 81039,99%availablein80026,No Service
+Fruita,80027,"    81101,",34% available in 81101,99%availablein80027,No Service
+Grand Junction,80030,"    81230,",36% available in 81230,99%availablein80030,No Service
+Gunnison,80031,"    81240,",36% available in 81240,99%availablein80031,No Service
+Hayden,80033,"    81416,",37% available in 81416,99%availablein80033,No Service
+Huerfano County,80045,"    81225,",39% available in 81225,99%availablein80045,No Service
+La Junta,80101,"    81226,",39% available in 81226,No Service,No Service
+La Plata County,80102,"    81648,",39% available in 81648,94%availablein80102,No Service
+Lake County,80103,"    81526,",43% available in 81526,99%availablein80103,No Service
+Lamar,80104,"    80701,",46% available in 80701,99%availablein80104,No Service
+Leadville,80105,"    80723,",47% available in 80723,No Service,No Service
+Log Lane,80106,"    81089,",47% available in 81089,No Service,No Service
+Log Lane Village,80107,"    81301,",47% available in 81301,99%availablein80107,No Service
+Logan County,80108,"    81501,",48% available in 81501,99%availablein80108,No Service
+Mancos,80109,"    81505,",48% available in 81505,99%availablein80109,No Service
+Manzanola,80110,"    81077,",49% available in 81077,99%availablein80110,No Service
+Meeker,80111,"    81242,",50% available in 81242,99%availablein80111,No Service
+Mesa County,80112,"    81401,",52% available in 81401,99%availablein80112,No Service
+Moffat County,80113,"    81521,",55% available in 81521,99%availablein80113,No Service
+Monte Vista,80116,"    81212,",56% available in 81212,99%availablein80116,No Service
+Montrose,80117,"    81506,",58% available in 81506,99%availablein80117,No Service
+Montrose County,80118,"    81520,",60% available in 81520,99%availablein80118,No Service
+Morgan County,80120,"    81504,",61% available in 81504,99%availablein80120,No Service
+Otero County,80121,,No service,99%availablein80121,No Service
+Palisade,80122,,No service,99%availablein80122,No Service
+Paonia,80123,,No service,99%availablein80123,No Service
+Penrose,80124,,No service,99%availablein80124,No Service
+Poncha Springs,80125,,No service,99%availablein80125,No Service
+Prowers County,80126,,No service,99%availablein80126,No Service
+Pueblo,80127,,No service,99%availablein80127,No Service
+Rangely,80128,,No service,99%availablein80128,No Service
+Rio Grande County,80129,,No service,99%availablein80129,No Service
+Rockvale,80130,,No service,99%availablein80130,No Service
+Rocky Ford,80131,,No service,No Service,No Service
+Salida,80132,,No service,99%availablein80132,No Service
+Sterling,80133,,No service,99%availablein80133,No Service
+Swink,80134,,No service,99%availablein80134,No Service
+Telluride,80135,,No service,73%availablein80135,No Service
+Walsenburg,80136,,No service,99%availablein80136,No Service
+Williamsburg,80137,,No service,No Service,No Service
+,80138,,No service,99%availablein80138,No Service
+,80202,,No service,99%availablein80202,No Service
+,80203,,No service,99%availablein80203,No Service
+,80204,,No service,99%availablein80204,No Service
+,80205,,No service,99%availablein80205,No Service
+,80206,,No service,99%availablein80206,No Service
+,80207,,No service,99%availablein80207,No Service
+,80209,,No service,99%availablein80209,No Service
+,80210,,No service,99%availablein80210,No Service
+,80211,,No service,99%availablein80211,No Service
+,80212,,No service,99%availablein80212,No Service
+,80214,,No service,99%availablein80214,No Service
+,80215,,No service,99%availablein80215,No Service
+,80216,,No service,99%availablein80216,No Service
+,80218,,No service,99%availablein80218,No Service
+,80219,,No service,99%availablein80219,No Service
+,80220,,No service,99%availablein80220,No Service
+,80221,,No service,99%availablein80221,No Service
+,80222,,No service,99%availablein80222,No Service
+,80223,,No service,99%availablein80223,No Service
+,80224,,No service,99%availablein80224,No Service
+,80226,,No service,99%availablein80226,No Service
+,80227,,No service,99%availablein80227,No Service
+,80228,,No service,99%availablein80228,No Service
+,80229,,No service,99%availablein80229,No Service
+,80230,,No service,99%availablein80230,No Service
+,80231,,No service,99%availablein80231,No Service
+,80232,,No service,99%availablein80232,No Service
+,80233,,No service,99%availablein80233,No Service
+,80234,,No service,99%availablein80234,No Service
+,80235,,No service,99%availablein80235,No Service
+,80236,,No service,99%availablein80236,No Service
+,80237,,No service,99%availablein80237,No Service
+,80238,,No service,99%availablein80238,No Service
+,80239,,No service,99%availablein80239,No Service
+,80241,,No service,99%availablein80241,No Service
+,80246,,No service,99%availablein80246,No Service
+,80247,,No service,99%availablein80247,No Service
+,80249,,No service,99%availablein80249,No Service
+,80260,,No service,99%availablein80260,No Service
+,80264,,No service,99%availablein80264,No Service
+,80266,,No service,No Service,No Service
+,80290,,No service,No Service,No Service
+,80293,,No service,99%availablein80293,No Service
+,80294,,No service,No Service,No Service
+,80301,,No service,99%availablein80301,No Service
+,80302,,No service,99%availablein80302,No Service
+,80303,,No service,99%availablein80303,No Service
+,80304,,No service,99%availablein80304,No Service
+,80305,,No service,99%availablein80305,No Service
+,80310,,No service,99%availablein80310,No Service
+,80401,,No service,99%availablein80401,No Service
+,80403,,No service,89%availablein80403,No Service
+,80419,,No service,No Service,No Service
+,80420,,No service,No Service,No Service
+,80421,,No service,No Service,No Service
+,80422,,No service,No Service,No Service
+,80423,,No service,No Service,No Service
+,80424,,No service,99%availablein80424,No Service
+,80425,,No service,No Service,No Service
+,80426,,No service,No Service,No Service
+,80427,,No service,No Service,No Service
+,80428,,No service,No Service,No Service
+,80430,,No service,No Service,No Service
+,80432,,No service,No Service,No Service
+,80433,,No service,No Service,No Service
+,80434,,No service,No Service,No Service
+,80435,,No service,99%availablein80435,No Service
+,80436,,No service,99%availablein80436,No Service
+,80438,,No service,99%availablein80438,No Service
+,80439,,No service,99%availablein80439,No Service
+,80440,,No service,No Service,No Service
+,80442,,No service,99%availablein80442,No Service
+,80443,,No service,99%availablein80443,No Service
+,80444,,No service,99%availablein80444,No Service
+,80446,,No service,99%availablein80446,No Service
+,80447,,No service,99%availablein80447,No Service
+,80448,,No service,No Service,No Service
+,80449,,No service,No Service,No Service
+,80451,,No service,99%availablein80451,No Service
+,80452,,No service,99%availablein80452,No Service
+,80453,,No service,99%availablein80453,No Service
+,80454,,No service,99%availablein80454,No Service
+,80455,,No service,No Service,No Service
+,80456,,No service,No Service,No Service
+,80457,,No service,99%availablein80457,No Service
+,80459,,No service,99%availablein80459,No Service
+,80461,,No service,30%availablein80461,No Service
+,80463,,No service,No Service,No Service
+,80465,,No service,99%availablein80465,No Service
+,80466,,No service,No Service,No Service
+,80467,,No service,No Service,No Service
+,80468,,No service,No Service,No Service
+,80469,,No service,No Service,No Service
+,80470,,No service,No Service,No Service
+,80471,,No service,No Service,No Service
+,80473,,No service,No Service,No Service
+,80474,,No service,No Service,No Service
+,80475,,No service,No Service,No Service
+,80476,,No service,99%availablein80476,No Service
+,80478,,No service,99%availablein80478,No Service
+,80479,,No service,No Service,No Service
+,80480,,No service,No Service,No Service
+,80481,,No service,No Service,No Service
+,80482,,No service,99%availablein80482,No Service
+,80483,,No service,No Service,No Service
+,80487,,No service,99%availablein80487,No Service
+,80498,,No service,99%availablein80498,No Service
+,80501,,No service,99%availablein80501,No Service
+,80503,,No service,99%availablein80503,No Service
+,80504,,No service,99%availablein80504,No Service
+,80510,,No service,No Service,No Service
+,80512,,No service,No Service,No Service
+,80513,,No service,99%availablein80513,No Service
+,80514,,No service,96%availablein80514,No Service
+,80515,,No service,No Service,No Service
+,80516,,No service,99%availablein80516,No Service
+,80517,,No service,No Service,No Service
+,80520,,No service,99%availablein80520,No Service
+,80521,,No service,99%availablein80521,No Service
+,80524,,No service,71%availablein80524,No Service
+,80525,,No service,99%availablein80525,No Service
+,80526,,No service,99%availablein80526,No Service
+,80528,,No service,99%availablein80528,No Service
+,80530,,No service,99%availablein80530,No Service
+,80532,,No service,No Service,No Service
+,80534,,No service,No Service,No Service
+,80535,,No service,No Service,No Service
+,80536,,No service,No Service,No Service
+,80537,,No service,99%availablein80537,No Service
+,80538,,No service,99%availablein80538,No Service
+,80540,,No service,No Service,No Service
+,80542,,No service,No Service,No Service
+,80543,,No service,No Service,No Service
+,80544,,No service,No Service,No Service
+,80545,,No service,No Service,No Service
+,80546,,No service,No Service,No Service
+,80547,,No service,99%availablein80547,No Service
+,80549,,No service,No Service,No Service
+,80550,,No service,74%availablein80550,No Service
+,80601,,No service,99%availablein80601,No Service
+,80602,,No service,99%availablein80602,No Service
+,80603,,No service,92%availablein80603,No Service
+,80610,,No service,No Service,No Service
+,80611,,No service,No Service,No Service
+,80612,,No service,No Service,No Service
+,80615,,No service,No Service,No Service
+,80620,,No service,99%availablein80620,No Service
+,80621,,No service,94%availablein80621,No Service
+,80622,,No service,No Service,No Service
+,80623,,No service,No Service,No Service
+,80624,,No service,No Service,No Service
+,80631,,No service,86%availablein80631,No Service
+,80634,,No service,99%availablein80634,No Service
+,80640,,No service,99%availablein80640,No Service
+,80642,,No service,81%availablein80642,No Service
+,80643,,No service,No Service,No Service
+,80644,,No service,No Service,No Service
+,80645,,No service,51%availablein80645,No Service
+,80646,,No service,No Service,No Service
+,80648,,No service,No Service,No Service
+,80649,,No service,No Service,No Service
+,80650,,No service,No Service,No Service
+,80651,,No service,No Service,No Service
+,80652,,No service,No Service,No Service
+,80653,,No service,No Service,No Service
+,80654,,No service,No Service,No Service
+,80701,,No service,No Service,No Service
+,80705,,No service,No Service,No Service
+,80720,,No service,No Service,No Service
+,80721,,No service,No Service,No Service
+,80722,,No service,No Service,No Service
+,80723,,No service,No Service,No Service
+,80726,,No service,No Service,No Service
+,80727,,No service,No Service,No Service
+,80728,,No service,No Service,No Service
+,80729,,No service,No Service,No Service
+,80731,,No service,No Service,No Service
+,80732,,No service,No Service,No Service
+,80733,,No service,No Service,No Service
+,80734,,No service,No Service,No Service
+,80735,,No service,No Service,No Service
+,80736,,No service,No Service,No Service
+,80737,,No service,No Service,No Service
+,80740,,No service,No Service,No Service
+,80741,,No service,No Service,No Service
+,80742,,No service,No Service,No Service
+,80743,,No service,No Service,No Service
+,80744,,No service,No Service,No Service
+,80745,,No service,No Service,No Service
+,80746,,No service,No Service,No Service
+,80747,,No service,No Service,No Service
+,80749,,No service,No Service,No Service
+,80750,,No service,No Service,No Service
+,80751,,No service,No Service,No Service
+,80754,,No service,No Service,No Service
+,80755,,No service,No Service,No Service
+,80757,,No service,No Service,No Service
+,80758,,No service,No Service,No Service
+,80759,,No service,No Service,No Service
+,80801,,No service,No Service,No Service
+,80802,,No service,No Service,No Service
+,80804,,No service,No Service,No Service
+,80805,,No service,No Service,No Service
+,80807,,No service,No Service,No Service
+,80808,,No service,No Service,No Service
+,80809,,No service,99%availablein80809,No Service
+,80810,,No service,No Service,No Service
+,80812,,No service,No Service,No Service
+,80813,,No service,No Service,No Service
+,80814,,No service,No Service,No Service
+,80815,,No service,No Service,No Service
+,80816,,No service,No Service,No Service
+,80817,,No service,93%availablein80817,No Service
+,80818,,No service,No Service,No Service
+,80819,,No service,99%availablein80819,No Service
+,80820,,No service,No Service,No Service
+,80821,,No service,No Service,No Service
+,80822,,No service,No Service,No Service
+,80823,,No service,No Service,No Service
+,80824,,No service,No Service,No Service
+,80825,,No service,No Service,No Service
+,80826,,No service,No Service,No Service
+,80827,,No service,No Service,No Service
+,80828,,No service,No Service,No Service
+,80829,,No service,99%availablein80829,No Service
+,80830,,No service,No Service,No Service
+,80831,,No service,89%availablein80831,No Service
+,80832,,No service,No Service,No Service
+,80833,,No service,No Service,No Service
+,80834,,No service,No Service,No Service
+,80835,,No service,No Service,No Service
+,80836,,No service,No Service,No Service
+,80840,,No service,99%availablein80840,No Service
+,80860,,No service,No Service,No Service
+,80861,,No service,No Service,No Service
+,80862,,No service,No Service,No Service
+,80863,,No service,No Service,No Service
+,80864,,No service,No Service,No Service
+,80902,,No service,No Service,No Service
+,80903,,No service,99%availablein80903,No Service
+,80904,,No service,99%availablein80904,No Service
+,80905,,No service,99%availablein80905,No Service
+,80906,,No service,99%availablein80906,No Service
+,80907,,No service,99%availablein80907,No Service
+,80908,,No service,99%availablein80908,No Service
+,80909,,No service,99%availablein80909,No Service
+,80910,,No service,99%availablein80910,No Service
+,80911,,No service,99%availablein80911,No Service
+,80913,,No service,No Service,No Service
+,80914,,No service,99%availablein80914,No Service
+,80915,,No service,99%availablein80915,No Service
+,80916,,No service,99%availablein80916,No Service
+,80917,,No service,99%availablein80917,No Service
+,80918,,No service,99%availablein80918,No Service
+,80919,,No service,99%availablein80919,No Service
+,80920,,No service,99%availablein80920,No Service
+,80921,,No service,99%availablein80921,No Service
+,80922,,No service,99%availablein80922,No Service
+,80923,,No service,99%availablein80923,No Service
+,80924,,No service,99%availablein80924,No Service
+,80925,,No service,99%availablein80925,No Service
+,80926,,No service,No Service,No Service
+,80927,,No service,99%availablein80927,No Service
+,80928,,No service,No Service,No Service
+,80929,,No service,No Service,No Service
+,80930,,No service,No Service,No Service
+,80938,,No service,No Service,No Service
+,80939,,No service,No Service,No Service
+,80951,,No service,99%availablein80951,No Service
+,81001,,No service,99%availablein81001,No Service
+,81003,,No service,99%availablein81003,No Service
+,81004,,No service,99%availablein81004,No Service
+,81005,,No service,99%availablein81005,No Service
+,81006,,No service,99%availablein81006,No Service
+,81007,,No service,99%availablein81007,No Service
+,81008,,No service,99%availablein81008,No Service
+,81019,,No service,No Service,No Service
+,81020,,No service,No Service,No Service
+,81021,,No service,No Service,No Service
+,81022,,No service,No Service,No Service
+,81023,,No service,No Service,No Service
+,81024,,No service,No Service,No Service
+,81025,,No service,No Service,No Service
+,81027,,No service,No Service,No Service
+,81029,,No service,No Service,No Service
+,81030,,No service,No Service,No Service
+,81033,,No service,No Service,No Service
+,81036,,No service,No Service,No Service
+,81039,,No service,No Service,No Service
+,81040,,No service,No Service,No Service
+,81041,,No service,No Service,No Service
+,81043,,No service,No Service,No Service
+,81044,,No service,No Service,No Service
+,81045,,No service,No Service,No Service
+,81046,,No service,No Service,No Service
+,81047,,No service,No Service,No Service
+,81049,,No service,No Service,No Service
+,81050,,No service,No Service,No Service
+,81052,,No service,No Service,No Service
+,81054,,No service,No Service,No Service
+,81055,,No service,No Service,No Service
+,81057,,No service,No Service,No Service
+,81058,,No service,No Service,No Service
+,81059,,No service,No Service,No Service
+,81062,,No service,No Service,No Service
+,81063,,No service,No Service,No Service
+,81064,,No service,No Service,No Service
+,81067,,No service,No Service,No Service
+,81069,,No service,No Service,No Service
+,81071,,No service,No Service,No Service
+,81073,,No service,No Service,No Service
+,81076,,No service,No Service,No Service
+,81077,,No service,No Service,No Service
+,81081,,No service,No Service,No Service
+,81082,,No service,99%availablein81082,No Service
+,81084,,No service,No Service,No Service
+,81087,,No service,No Service,No Service
+,81089,,No service,No Service,No Service
+,81090,,No service,No Service,No Service
+,81091,,No service,No Service,No Service
+,81092,,No service,No Service,No Service
+,81101,,No service,No Service,No Service
+,81120,,No service,No Service,No Service
+,81121,,No service,No Service,No Service
+,81122,,No service,No Service,No Service
+,81123,,No service,No Service,No Service
+,81124,,No service,No Service,No Service
+,81125,,No service,No Service,No Service
+,81126,,No service,No Service,No Service
+,81128,,No service,No Service,No Service
+,81129,,No service,No Service,No Service
+,81130,,No service,No Service,No Service
+,81131,,No service,No Service,No Service
+,81132,,No service,No Service,No Service
+,81133,,No service,No Service,No Service
+,81136,,No service,No Service,No Service
+,81137,,No service,No Service,No Service
+,81138,,No service,No Service,No Service
+,81140,,No service,No Service,No Service
+,81141,,No service,No Service,No Service
+,81143,,No service,No Service,No Service
+,81144,,No service,No Service,No Service
+,81146,,No service,No Service,No Service
+,81147,,No service,No Service,No Service
+,81148,,No service,No Service,No Service
+,81149,,No service,No Service,No Service
+,81151,,No service,No Service,No Service
+,81152,,No service,No Service,No Service
+,81154,,No service,No Service,No Service
+,81155,,No service,No Service,No Service
+,81201,,No service,No Service,No Service
+,81210,,No service,No Service,No Service
+,81211,,No service,No Service,No Service
+,81212,,No service,No Service,No Service
+,81220,,No service,No Service,No Service
+,81221,,No service,No Service,No Service
+,81222,,No service,No Service,No Service
+,81223,,No service,No Service,No Service
+,81224,,No service,No Service,No Service
+,81225,,No service,No Service,No Service
+,81226,,No service,No Service,No Service
+,81227,,No service,No Service,No Service
+,81228,,No service,No Service,No Service
+,81230,,No service,No Service,No Service
+,81232,,No service,No Service,No Service
+,81233,,No service,No Service,No Service
+,81235,,No service,No Service,No Service
+,81236,,No service,No Service,No Service
+,81237,,No service,No Service,No Service
+,81239,,No service,No Service,No Service
+,81240,,No service,No Service,No Service
+,81241,,No service,No Service,No Service
+,81242,,No service,No Service,No Service
+,81243,,No service,No Service,No Service
+,81244,,No service,No Service,No Service
+,81248,,No service,No Service,No Service
+,81251,,No service,No Service,No Service
+,81252,,No service,No Service,No Service
+,81253,,No service,No Service,No Service
+,81301,,No service,No Service,No Service
+,81303,,No service,No Service,No Service
+,81320,,No service,No Service,No Service
+,81321,,No service,No Service,No Service
+,81323,,No service,No Service,No Service
+,81324,,No service,No Service,No Service
+,81325,,No service,No Service,No Service
+,81326,,No service,No Service,No Service
+,81327,,No service,No Service,No Service
+,81328,,No service,No Service,No Service
+,81330,,No service,No Service,No Service
+,81331,,No service,No Service,No Service
+,81332,,No service,No Service,No Service
+,81334,,No service,No Service,No Service
+,81335,,No service,No Service,No Service
+,81401,,No service,No Service,No Service
+,81403,,No service,No Service,No Service
+,81410,,No service,No Service,No Service
+,81411,,No service,No Service,No Service
+,81413,,No service,No Service,No Service
+,81415,,No service,No Service,No Service
+,81416,,No service,No Service,No Service
+,81418,,No service,No Service,No Service
+,81419,,No service,No Service,No Service
+,81422,,No service,No Service,No Service
+,81423,,No service,No Service,No Service
+,81424,,No service,No Service,No Service
+,81425,,No service,No Service,No Service
+,81426,,No service,No Service,No Service
+,81427,,No service,No Service,No Service
+,81428,,No service,No Service,No Service
+,81429,,No service,No Service,No Service
+,81430,,No service,No Service,No Service
+,81431,,No service,No Service,No Service
+,81432,,No service,No Service,No Service
+,81433,,No service,No Service,No Service
+,81434,,No service,No Service,No Service
+,81435,,No service,No Service,No Service
+,81501,,No service,No Service,No Service
+,81503,,No service,No Service,No Service
+,81504,,No service,No Service,No Service
+,81505,,No service,No Service,No Service
+,81506,,No service,No Service,No Service
+,81507,,No service,No Service,No Service
+,81520,,No service,No Service,No Service
+,81521,,No service,No Service,No Service
+,81522,,No service,No Service,No Service
+,81523,,No service,No Service,No Service
+,81524,,No service,No Service,No Service
+,81525,,No service,No Service,No Service
+,81526,,No service,No Service,No Service
+,81527,,No service,No Service,No Service
+,81601,,No service,99%availablein81601,No Service
+,81610,,No service,No Service,No Service
+,81611,,No service,99%availablein81611,No Service
+,81612,,No service,No Service,No Service
+,81615,,No service,99%availablein81615,No Service
+,81620,,No service,99%availablein81620,No Service
+,81621,,No service,99%availablein81621,No Service
+,81623,,No service,99%availablein81623,No Service
+,81624,,No service,No Service,No Service
+,81625,,No service,No Service,No Service
+,81630,,No service,No Service,No Service
+,81631,,No service,No Service,No Service
+,81632,,No service,99%availablein81632,No Service
+,81633,,No service,No Service,No Service
+,81635,,No service,81%availablein81635,No Service
+,81637,,No service,No Service,No Service
+,81638,,No service,No Service,No Service
+,81639,,No service,No Service,No Service
+,81640,,No service,No Service,No Service
+,81641,,No service,No Service,No Service
+,81642,,No service,No Service,No Service
+,81643,,No service,No Service,No Service
+,81645,,No service,99%availablein81645,No Service
+,81646,,No service,No Service,No Service
+,81647,,No service,99%availablein81647,No Service
+,81648,,No service,No Service,No Service
+,81649,,No service,No Service,No Service
+,81650,,No service,89%availablein81650,No Service
+,81652,,No service,99%availablein81652,No Service
+,81653,,No service,No Service,No Service
+,81654,,No service,99%availablein81654,No Service
+,81655,,No service,No Service,No Service
+,81656,,No service,No Service,No Service
+,81657,,No service,99%availablein81657,No Service
