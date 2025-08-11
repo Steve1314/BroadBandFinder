@@ -1,4 +1,5 @@
 import Zipcode from '../models/Zipcode.js';
+import ZipSearchCount from '../models/ZipSearchCount.js';
 
 export const searchProvidersByZipcode = async (req, res) => {
   try {
@@ -17,12 +18,25 @@ export const searchProvidersByZipcode = async (req, res) => {
       });
     }
 
+    // 📌 Log search to ZipSearchCount
+    // If you also store city, we'll fetch it after finding the zipcode record
+    let cityName = null;
+
     const record = await Zipcode.findOne({ zipcode });
-    // ❌ CASE: Zipcode not found — show default
-    if (!record) {
+
+    if (record) {
+      cityName = record.city;
+
+      // ✅ Increment search count
+      await ZipSearchCount.create({ zipcode, city: cityName });
+    } else {
+      // ❌ CASE: Zipcode not found — log it with city as "Unknown"
+      await ZipSearchCount.create({ zipcode, city: 'Unknown' });
+
       return res.status(200).json({
         message: 'Zipcode not found. Showing default providers.',
         zipcode,
+        providers: defaultProviders
       });
     }
 

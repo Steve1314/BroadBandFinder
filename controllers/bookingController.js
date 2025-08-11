@@ -1,5 +1,5 @@
-import Booking from '../models/Booking.js';
 import nodemailer from 'nodemailer';
+import Booking from '../models/Booking.js';
 
 export const createBooking = async (req, res) => {
   try {
@@ -43,5 +43,24 @@ export const createBooking = async (req, res) => {
   } catch (err) {
     console.error('Booking error:', err);
     res.status(500).json({ error: 'Failed to save booking or send email.' });
+  }
+};
+export const getBookings = async (req, res) => {
+  try {
+    const bookings = await Booking.find().sort({ createdAt: -1 }); // latest first
+    res.status(200).json(bookings);
+  } catch (err) {
+    console.error('Get bookings error:', err);
+    res.status(500).json({ error: 'Failed to fetch bookings.' });
+  }
+};
+export const deleteBooking = async (req, res) => {
+  try {
+    const { id } = req.params;
+    await Booking.findByIdAndDelete(id);
+    res.status(200).json({ message: 'Booking deleted successfully.' });
+  } catch (err) {
+    console.error('Delete booking error:', err);
+    res.status(500).json({ error: 'Failed to delete booking.' });
   }
 };

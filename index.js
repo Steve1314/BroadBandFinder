@@ -1,17 +1,17 @@
+import cors from 'cors';
+import dotenv from 'dotenv';
 import express from 'express';
 import mongoose from 'mongoose';
-import dotenv from 'dotenv';
-import cors from 'cors';
 import morgan from 'morgan';
 import adminRoutes from './routes/adminRoutes.js';
-import zipcodeRoutes from './routes/zipcodeRoutes.js';
-import planRoutes from './routes/planRoutes.js';
-import customerRoutes from './routes/customerRoutes.js';
-import policyRoutes from './routes/policyRoutes.js';
-import uploadRoutes from './routes/uploadRoutes.js';
-import searchRoutes from './routes/searchRoutes.js';
 import bookingRoutes from './routes/bookingRoutes.js';
-import adminRoutes from './routes/adminRoutes.js';
+import customerRoutes from './routes/customerRoutes.js';
+import planRoutes from './routes/planRoutes.js';
+import policyRoutes from './routes/policyRoutes.js';
+import searchRoutes from './routes/searchRoutes.js';
+import uploadRoutes from './routes/uploadRoutes.js';
+import zipcodeRoutes from './routes/zipcodeRoutes.js';
+import zipSearchCountRoutes from './routes/zipSearchCount.js';
 
 dotenv.config();
 
@@ -24,7 +24,6 @@ mongoose.connect(process.env.MONGO_URI)
   .catch(err => console.log(err));
 
 app.use(morgan('dev'));
-app.use('/api/admins', adminRoutes);
 app.use('/api/zipcodes', zipcodeRoutes);
 app.use('/api/plans', planRoutes);
 app.use('/api/customers', customerRoutes);
@@ -33,6 +32,7 @@ app.use('/api/upload', uploadRoutes);
 app.use('/api/search', searchRoutes);
 app.use('/api/book', bookingRoutes);
 app.use('/api/admin', adminRoutes);
+app.use('/api/zip-search', zipSearchCountRoutes);
 
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
