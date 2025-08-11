@@ -12,6 +12,7 @@ import searchRoutes from './routes/searchRoutes.js';
 import uploadRoutes from './routes/uploadRoutes.js';
 import zipcodeRoutes from './routes/zipcodeRoutes.js';
 import zipSearchCountRoutes from './routes/zipSearchCount.js';
+import { connectDB } from './db.js';
 
 dotenv.config();
 
@@ -19,9 +20,7 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-mongoose.connect(process.env.MONGO_URI)
-  .then(() => console.log('MongoDB connected'))
-  .catch(err => console.log(err));
+connectDB();
 
 app.use(morgan('dev'));
 app.use('/api/zipcodes', zipcodeRoutes);
