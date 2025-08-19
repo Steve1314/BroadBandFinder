@@ -18,11 +18,15 @@ import searchRoutes from './routes/searchRoutes.js';
 import uploadRoutes from './routes/uploadRoutes.js';
 import zipcodeRoutes from './routes/zipcodeRoutes.js';
 import zipSearchCountRoutes from './routes/zipSearchCount.js';
+<<<<<<< HEAD
 import conversationRoutes from './routes/conversationRoutes.js'; // <-- new route for conversations
 import orderRoutes  from './routes/orderRoutes.js';
 
 // Chat socket
 import chatSocket from './socket/chatSocket.js'; // <-- new file you'll create
+=======
+import { connectDB } from './db.js';
+>>>>>>> 8ccbc3107ab7640c79776ffb9c05b20f228c7a1e
 
 dotenv.config();
 
@@ -34,6 +38,12 @@ const io = new Server(server, {
 
 app.use(cors());
 app.use(express.json());
+<<<<<<< HEAD
+=======
+
+connectDB();
+
+>>>>>>> 8ccbc3107ab7640c79776ffb9c05b20f228c7a1e
 app.use(morgan('dev'));
 
 // MongoDB connection
