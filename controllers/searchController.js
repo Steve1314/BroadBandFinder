@@ -57,3 +57,55 @@ export const searchProvidersByZipcode = async (req, res) => {
     res.status(500).json({ error: 'Internal server error' });
   }
 };
+// Generic function for a provider
+export const searchSpecificProviderByZipcode = (providerName) => {
+  return async (req, res) => {
+    try {
+      const zipcode = (req.query.zipcode || '').trim();
+
+      if (!zipcode) {
+        return res.status(400).json({ error: 'Zipcode is required as query param.' });
+      }
+
+      // Fetch record from DB
+      const record = await Zipcode.findOne({ zipcode });
+
+      if (!record) {
+        // Log unsuccessful search
+        await ZipSearchCount.create({ zipcode, city: 'Unknown' });
+
+        return res.status(200).json({
+          message: `Zipcode not found. ${providerName} is not available.`,
+          zipcode,
+          providers: []
+        });
+      }
+
+      // Log search attempt
+      await ZipSearchCount.create({ zipcode, city: record.city });
+
+      // Find the requested provider
+      const provider = record.types.find(
+        p => p.typeName.toLowerCase().includes(providerName.toLowerCase()) && p.availability
+      );
+
+      return res.status(200).json({
+        message: provider
+          ? `${providerName} is available in this zipcode.`
+          : `${providerName} is not available in this zipcode.`,
+        city: record.city,
+        zipcode: record.zipcode,
+        provider: provider || null
+      });
+
+    } catch (err) {
+      console.error(`${providerName} search error:`, err);
+      res.status(500).json({ error: 'Internal server error' });
+    }
+  };
+};
+
+// Export specific provider searches
+export const searchSpectrumByZipcode = searchSpecificProviderByZipcode('Spectrum');
+export const searchATTByZipcode = searchSpecificProviderByZipcode('AT&T');
+export const searchComcastByZipcode = searchSpecificProviderByZipcode('Comcast');

@@ -4,7 +4,7 @@ import { loginAdmin } from '../controllers/loginAdmin.js'; // Assuming you have 
 
 const router = express.Router();
 
-router.post('/register', createAdmin); // Secure this later
+router.post('/create', createAdmin); // Secure this later
 router.post('/login', loginAdmin);
 // router.get('/', getAdmins); // Secure with middleware if needed
 

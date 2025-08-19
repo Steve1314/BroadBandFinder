@@ -1,5 +1,5 @@
-import nodemailer from 'nodemailer';
-import Booking from '../models/Booking.js';
+import nodemailer from "nodemailer";
+import Booking from "../models/Booking.js";
 
 export const createBooking = async (req, res) => {
   try {
@@ -9,58 +9,62 @@ export const createBooking = async (req, res) => {
     const booking = new Booking(data);
     await booking.save();
 
-    // Send email using nodemailer
+    // Send email using Nodemailer + Hostinger SMTP
     const transporter = nodemailer.createTransport({
-      service: 'gmail',
+      host: "smtp.hostinger.com",
+      port: 465,
+      secure: true,
       auth: {
-        user: process.env.EMAIL_USER,     // Your Gmail ID
-        pass: process.env.EMAIL_PASS,     // App password
+        user: process.env.EMAIL_USER,
+        pass: process.env.EMAIL_PASS,
       },
     });
 
     const mailOptions = {
-      from: process.env.EMAIL_USER,
-      to: process.env.EMAIL_RECEIVER || 'your-email@example.com',
+      from: `"Broadband Booking" <${process.env.EMAIL_USER}>`,
+      to: process.env.ADMIN_EMAIL, // <-- use ADMIN_EMAIL here
       subject: `New Internet Booking from ${data.name}`,
       html: `
-        <h2>New Booking Details</h2>
-        <p><strong>Name:</strong> ${data.name}</p>
-        <p><strong>Phone:</strong> ${data.phone}</p>
-        <p><strong>Address:</strong> ${data.address}</p>
-                <p><strong>Address:</strong> ${data.zip}</p>
-
-        <p><strong>Date:</strong> ${data.date}</p>
-        <p><strong>Provider:</strong> ${data.provider}</p>
-        <p><strong>Speed:</strong> ${data.speed}</p>
-        <p><strong>Price:</strong> ${data.price}</p>
-        <p><strong>Notes:</strong> ${data.notes || 'None'}</p>
-      `,
+    <h2>New Booking Details</h2>
+    <p><strong>Name:</strong> ${data.name}</p>
+    <p><strong>Phone:</strong> ${data.phone}</p>
+    <p><strong>Address:</strong> ${data.address}</p>
+    <p><strong>ZIP:</strong> ${data.zip}</p>
+    <p><strong>Date:</strong> ${data.date}</p>
+    <p><strong>Provider:</strong> ${data.provider}</p>
+    <p><strong>Speed:</strong> ${data.speed}</p>
+    <p><strong>Price:</strong> ${data.price}</p>
+    <p><strong>Notes:</strong> ${data.notes || "None"}</p>
+  `,
     };
 
     await transporter.sendMail(mailOptions);
 
-    res.status(201).json({ message: 'Booking saved and email sent!' });
+    res
+      .status(201)
+      .json({ message: "Booking saved and email sent via Hostinger!" });
   } catch (err) {
-    console.error('Booking error:', err);
-    res.status(500).json({ error: 'Failed to save booking or send email.' });
+    console.error("Booking error:", err);
+    res.status(500).json({ error: "Failed to save booking or send email." });
   }
 };
+
 export const getBookings = async (req, res) => {
   try {
     const bookings = await Booking.find().sort({ createdAt: -1 }); // latest first
     res.status(200).json(bookings);
   } catch (err) {
-    console.error('Get bookings error:', err);
-    res.status(500).json({ error: 'Failed to fetch bookings.' });
+    console.error("Get bookings error:", err);
+    res.status(500).json({ error: "Failed to fetch bookings." });
   }
 };
 export const deleteBooking = async (req, res) => {
   try {
     const { id } = req.params;
     await Booking.findByIdAndDelete(id);
-    res.status(200).json({ message: 'Booking deleted successfully.' });
+    res.status(200).json({ message: "Booking deleted successfully." });
   } catch (err) {
-    console.error('Delete booking error:', err);
-    res.status(500).json({ error: 'Failed to delete booking.' });
+    console.error("Delete booking error:", err);
+    res.status(500).json({ error: "Failed to delete booking." });
   }
 };
