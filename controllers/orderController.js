@@ -1,6 +1,7 @@
 // controllers/orderController.js
 import Order from "../models/Order.js"; // assuming you have a Mongoose model
 import nodemailer from "nodemailer";
+import validator from "validator";
 
 // Create new order
 export const createOrder = async (req, res) => {
@@ -30,15 +31,21 @@ export const createOrder = async (req, res) => {
 
       <h3>Contact Info</h3>
       <p><strong>Business:</strong> ${data.contact?.businessName || "—"}</p>
-      <p><strong>Name:</strong> ${data.contact?.title || ""} ${data.contact?.firstName || ""} ${data.contact?.lastName || ""}</p>
+      <p><strong>Name:</strong> ${data.contact?.title || ""} ${
+      data.contact?.firstName || ""
+    } ${data.contact?.lastName || ""}</p>
       <p><strong>Email:</strong> ${data.contact?.email || "—"}</p>
       <p><strong>Phone:</strong> ${data.contact?.phone || "—"}</p>
 
       <h3>Service Address</h3>
-      <p>${data.serviceAddress?.street || ""}, ${data.serviceAddress?.city || ""}, ${data.serviceAddress?.state || ""} ${data.serviceAddress?.zip || ""}</p>
+      <p>${data.serviceAddress?.street || ""}, ${
+      data.serviceAddress?.city || ""
+    }, ${data.serviceAddress?.state || ""} ${data.serviceAddress?.zip || ""}</p>
 
       <h3>Billing Address</h3>
-      <p>${data.billingAddress?.street || ""}, ${data.billingAddress?.city || ""}, ${data.billingAddress?.state || ""} ${data.billingAddress?.zip || ""}</p>
+      <p>${data.billingAddress?.street || ""}, ${
+      data.billingAddress?.city || ""
+    }, ${data.billingAddress?.state || ""} ${data.billingAddress?.zip || ""}</p>
 
       <h3>Authorized Contacts</h3>
       <ul>
@@ -52,17 +59,27 @@ export const createOrder = async (req, res) => {
 
       <h3>Communication</h3>
       <p><strong>Voice:</strong> ${data.comm?.voice ? "Yes" : "No"}</p>
-      <p><strong>Directory Listing:</strong> ${data.comm?.directoryListing || "—"}</p>
-      <p><strong>Industry Header:</strong> ${data.comm?.industryHeader || "—"}</p>
+      <p><strong>Directory Listing:</strong> ${
+        data.comm?.directoryListing || "—"
+      }</p>
+      <p><strong>Industry Header:</strong> ${
+        data.comm?.industryHeader || "—"
+      }</p>
       <p><strong>Phone Type:</strong> ${data.comm?.phoneNumberType || "—"}</p>
       <p><strong>Extra Lines:</strong> ${data.comm?.extraPhoneLines || 0}</p>
 
       <h3>Internet</h3>
       <p><strong>Plan ID:</strong> ${data.internet?.planId || "—"}</p>
-      <p><strong>Business WiFi:</strong> ${data.internet?.addBusinessWifi ? "Yes" : "No"}</p>
+      <p><strong>Business WiFi:</strong> ${
+        data.internet?.addBusinessWifi ? "Yes" : "No"
+      }</p>
       <p><strong>Static IPs:</strong> ${data.internet?.staticIpQty || 0}</p>
-      <p><strong>Wireless Backup:</strong> ${data.internet?.wirelessBackup ? "Yes" : "No"}</p>
-      <p><strong>Apple TV 4K:</strong> ${data.internet?.appleTV4K ? "Yes" : "No"}</p>
+      <p><strong>Wireless Backup:</strong> ${
+        data.internet?.wirelessBackup ? "Yes" : "No"
+      }</p>
+      <p><strong>Apple TV 4K:</strong> ${
+        data.internet?.appleTV4K ? "Yes" : "No"
+      }</p>
 
       <h3>Pricing</h3>
       <p><strong>Monthly:</strong> $${data.pricing?.monthly || 0}</p>
@@ -70,30 +87,34 @@ export const createOrder = async (req, res) => {
 
       <h3>Install</h3>
       <p><strong>Type:</strong> ${data.install?.type || "—"}</p>
-      <p><strong>Recipient:</strong> ${data.install?.recipientFirst || ""} ${data.install?.recipientLast || ""}</p>
+      <p><strong>Recipient:</strong> ${data.install?.recipientFirst || ""} ${
+      data.install?.recipientLast || ""
+    }</p>
 
       <h3>Property</h3>
-      <p><strong>Same as Contact:</strong> ${data.property?.sameAsContact ? "Yes" : "No"}</p>
+      <p><strong>Same as Contact:</strong> ${
+        data.property?.sameAsContact ? "Yes" : "No"
+      }</p>
       <p><strong>Name:</strong> ${data.property?.name || "—"}</p>
       <p><strong>Email:</strong> ${data.property?.email || "—"}</p>
       <p><strong>Phone:</strong> ${data.property?.phone || "—"}</p>
     `;
 
     // Email to Admin
-    const adminMail = {
-      from: `"Order System" <${process.env.EMAIL_USER}>`,
+      const adminMail = {
+      from: `"ZenithLink Orders" <${process.env.EMAIL_USER}>`,
       to: process.env.ADMIN_EMAIL,
-      subject: `New Order from ${data?.contact?.firstName || "Unknown"} ${
-        data?.contact?.lastName || ""
-      }`,
+      subject: `New Order from ${data?.contact?.firstName || "Unknown"} ${data?.contact?.lastName || ""}`,
+      text: `New order received from ${data.contact?.firstName || "Unknown"}.`,
       html: htmlBody,
     };
 
     // Email to Customer
     const userMail = {
-      from: `"Order System" <${process.env.EMAIL_USER}>`,
+      from: `"ZenithLink Orders" <${process.env.EMAIL_USER}>`,
       to: data.contact?.email,
-      subject: "Your Order has been booked successfully!",
+      subject: "ZenithLink – Your Order Confirmation",
+      text: `Hi ${data.contact?.firstName}, your order has been successfully placed. We will contact you shortly.`,
       html: `
         <h2>Thank you for your order, ${data.contact?.firstName || "Customer"}!</h2>
         <p>Your order has been successfully placed. Here are the details:</p>
@@ -104,7 +125,7 @@ export const createOrder = async (req, res) => {
 
     // Send both emails
     await transporter.sendMail(adminMail);
-    if (data.contact?.email) {
+    if (data.contact?.email && validator.isEmail(data.contact.email)) {
       await transporter.sendMail(userMail);
     }
 
@@ -136,7 +157,10 @@ export const getOrders = async (req, res) => {
 export const getOrderById = async (req, res) => {
   try {
     const order = await Order.findById(req.params.id);
-    if (!order) return res.status(404).json({ success: false, message: "Order not found" });
+    if (!order)
+      return res
+        .status(404)
+        .json({ success: false, message: "Order not found" });
     res.status(200).json({ success: true, order });
   } catch (error) {
     res.status(500).json({ success: false, message: "Server error" });
@@ -144,7 +168,7 @@ export const getOrderById = async (req, res) => {
 };
 
 // Update order (if needed, you can add this function)
-// export const updateOrder = async (req, res) => { 
+// export const updateOrder = async (req, res) => {
 //   try {
 //     const order = await Order.findByIdAndUpdate(req.params.id, req.body, { new: true });
 //     if (!order) return res.status(404).json({ success: false, message: "Order not found" });
@@ -159,9 +183,11 @@ export const deleteOrder = async (req, res) => {
   try {
     const order = await Order.findByIdAndDelete(req.params.id);
 
-    if (!order) return res.status(404).json({ success: false, message: "Order not found" });
-    res.status(200).json({ success: true, message: "Order deleted"
-  });
+    if (!order)
+      return res
+        .status(404)
+        .json({ success: false, message: "Order not found" });
+    res.status(200).json({ success: true, message: "Order deleted" });
   } catch (error) {
     res.status(500).json({ success: false, message: "Server error" });
   }
