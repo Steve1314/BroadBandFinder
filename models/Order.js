@@ -36,6 +36,9 @@ const orderSchema = new mongoose.Schema(
       industryHeader: String,
       phoneNumberType: String,
       extraPhoneLines: Number,
+      tvStream: Boolean,
+      mobile: Boolean, // ← you have this in state
+      businessConnect: Boolean,
     },
     internet: {
       planId: String,
@@ -43,6 +46,8 @@ const orderSchema = new mongoose.Schema(
       staticIpQty: Number,
       wirelessBackup: Boolean,
       appleTV4K: Boolean,
+      cableTv: Boolean,
+      roku: Boolean,
     },
     pricing: {
       monthly: Number,

@@ -25,80 +25,101 @@ export const createOrder = async (req, res) => {
 
     // Shared HTML body
     const htmlBody = `
-      <h2>New Order Details</h2>
-      <h3>Provider</h3>
-      <p>${data.provider}</p>
+  <div style="font-family: Arial, sans-serif;  padding:30px;">
+    <table style="max-width:700px; margin:auto; background:#ffffff; border-radius:8px; overflow:hidden; border:1px solid #f1d4d4;">
+      <tr>
+        <td style="background:#e63946; color:#fff; padding:20px; text-align:center; font-size:22px; font-weight:bold;">
+          ZenithLink – New Order Details
+        </td>
+      </tr>
+      <tr>
+        <td style="padding:25px;">
+          <h2 style="margin:0 0 15px; color:#b71c1c; font-size:20px;">Order Summary</h2>
 
-      <h3>Contact Info</h3>
-      <p><strong>Business:</strong> ${data.contact?.businessName || "—"}</p>
-      <p><strong>Name:</strong> ${data.contact?.title || ""} ${
-      data.contact?.firstName || ""
-    } ${data.contact?.lastName || ""}</p>
-      <p><strong>Email:</strong> ${data.contact?.email || "—"}</p>
-      <p><strong>Phone:</strong> ${data.contact?.phone || "—"}</p>
+          <table style="width:100%; border-collapse:collapse;">
+            <tr>
+              <td style="padding:8px; border-bottom:1px solid #eee; width:200px;"><strong>Provider</strong></td>
+              <td style="padding:8px; border-bottom:1px solid #eee;">${data.provider || "—"}</td>
+            </tr>
+          </table>
 
-      <h3>Service Address</h3>
-      <p>${data.serviceAddress?.street || ""}, ${
-      data.serviceAddress?.city || ""
-    }, ${data.serviceAddress?.state || ""} ${data.serviceAddress?.zip || ""}</p>
+          <h3 style="margin:20px 0 10px; color:#e63946; font-size:16px;">Contact Info</h3>
+          <table style="width:100%; border-collapse:collapse;">
+            <tr><td style="padding:6px; width:200px;"><strong>Business</strong></td><td>${data.contact?.businessName || "—"}</td></tr>
+            <tr><td style="padding:6px;"><strong>Name</strong></td><td>${data.contact?.title || ""} ${data.contact?.firstName || ""} ${data.contact?.lastName || ""}</td></tr>
+            <tr><td style="padding:6px;"><strong>Email</strong></td><td>${data.contact?.email || "—"}</td></tr>
+            <tr><td style="padding:6px;"><strong>Phone</strong></td><td>${data.contact?.phone || "—"}</td></tr>
+          </table>
 
-      <h3>Billing Address</h3>
-      <p>${data.billingAddress?.street || ""}, ${
-      data.billingAddress?.city || ""
-    }, ${data.billingAddress?.state || ""} ${data.billingAddress?.zip || ""}</p>
+          <h3 style="margin:20px 0 10px; color:#e63946; font-size:16px;">Service Address</h3>
+          <p style="margin:0; padding:6px; background:#fff5f5; border:1px solid #f1d4d4; border-radius:4px;">
+            ${data.serviceAddress?.street || ""}, ${data.serviceAddress?.city || ""}, ${data.serviceAddress?.state || ""} ${data.serviceAddress?.zip || ""}
+          </p>
 
-      <h3>Authorized Contacts</h3>
-      <ul>
-        ${(data.authorizedContacts || [])
-          .map(
-            (c) =>
-              `<li>${c.name || ""} - ${c.email || ""} - ${c.phone || ""}</li>`
-          )
-          .join("")}
-      </ul>
+          <h3 style="margin:20px 0 10px; color:#e63946; font-size:16px;">Billing Address</h3>
+          <p style="margin:0; padding:6px; background:#fff5f5; border:1px solid #f1d4d4; border-radius:4px;">
+            ${data.billingAddress?.street || ""}, ${data.billingAddress?.city || ""}, ${data.billingAddress?.state || ""} ${data.billingAddress?.zip || ""}
+          </p>
 
-      <h3>Communication</h3>
-      <p><strong>Voice:</strong> ${data.comm?.voice ? "Yes" : "No"}</p>
-      <p><strong>Directory Listing:</strong> ${
-        data.comm?.directoryListing || "—"
-      }</p>
-      <p><strong>Industry Header:</strong> ${
-        data.comm?.industryHeader || "—"
-      }</p>
-      <p><strong>Phone Type:</strong> ${data.comm?.phoneNumberType || "—"}</p>
-      <p><strong>Extra Lines:</strong> ${data.comm?.extraPhoneLines || 0}</p>
+          <h3 style="margin:20px 0 10px; color:#e63946; font-size:16px;">Authorized Contacts</h3>
+          <ul style="margin:0; padding-left:20px; color:#444;">
+            ${(data.authorizedContacts || [])
+              .map(
+                (c) =>
+                  `<li style="margin-bottom:5px;">${c.name || ""} - ${c.email || ""} - ${c.phone || ""}</li>`
+              )
+              .join("")}
+          </ul>
 
-      <h3>Internet</h3>
-      <p><strong>Plan ID:</strong> ${data.internet?.planId || "—"}</p>
-      <p><strong>Business WiFi:</strong> ${
-        data.internet?.addBusinessWifi ? "Yes" : "No"
-      }</p>
-      <p><strong>Static IPs:</strong> ${data.internet?.staticIpQty || 0}</p>
-      <p><strong>Wireless Backup:</strong> ${
-        data.internet?.wirelessBackup ? "Yes" : "No"
-      }</p>
-      <p><strong>Apple TV 4K:</strong> ${
-        data.internet?.appleTV4K ? "Yes" : "No"
-      }</p>
+          <h3 style="margin:20px 0 10px; color:#e63946; font-size:16px;">Communication</h3>
+          <table style="width:100%; border-collapse:collapse;">
+            <tr><td style="padding:6px; width:200px;"><strong>Voice</strong></td><td>${data.comm?.voice ? "Yes" : "No"}</td></tr>
+            <tr><td style="padding:6px;"><strong>Directory Listing</strong></td><td>${data.comm?.directoryListing || "—"}</td></tr>
+            <tr><td style="padding:6px;"><strong>Industry Header</strong></td><td>${data.comm?.industryHeader || "—"}</td></tr>
+            <tr><td style="padding:6px;"><strong>Phone Type</strong></td><td>${data.comm?.phoneNumberType || "—"}</td></tr>
+            <tr><td style="padding:6px;"><strong>Extra Lines</strong></td><td>${data.comm?.extraPhoneLines || 0}</td></tr>
+          </table>
 
-      <h3>Pricing</h3>
-      <p><strong>Monthly:</strong> $${data.pricing?.monthly || 0}</p>
-      <p><strong>One-Time:</strong> $${data.pricing?.oneTime || 0}</p>
+          <h3 style="margin:20px 0 10px; color:#e63946; font-size:16px;">Internet</h3>
+          <table style="width:100%; border-collapse:collapse;">
+            <tr><td style="padding:6px; width:200px;"><strong>Plan ID</strong></td><td>${data.internet?.planId || "—"}</td></tr>
+            <tr><td style="padding:6px;"><strong>Business WiFi</strong></td><td>${data.internet?.addBusinessWifi ? "Yes" : "No"}</td></tr>
+            <tr><td style="padding:6px;"><strong>Static IPs</strong></td><td>${data.internet?.staticIpQty || 0}</td></tr>
+            <tr><td style="padding:6px;"><strong>Wireless Backup</strong></td><td>${data.internet?.wirelessBackup ? "Yes" : "No"}</td></tr>
+            <tr><td style="padding:6px;"><strong>Apple TV 4K</strong></td><td>${data.internet?.appleTV4K ? "Yes" : "No"}</td></tr>
+          </table>
 
-      <h3>Install</h3>
-      <p><strong>Type:</strong> ${data.install?.type || "—"}</p>
-      <p><strong>Recipient:</strong> ${data.install?.recipientFirst || ""} ${
-      data.install?.recipientLast || ""
-    }</p>
+          <h3 style="margin:20px 0 10px; color:#e63946; font-size:16px;">Pricing</h3>
+          <table style="width:100%; border-collapse:collapse;">
+            <tr><td style="padding:6px; width:200px;"><strong>Monthly</strong></td><td>$${(data.pricing?.monthly || 0).toFixed(2)}</td></tr>
+            <tr><td style="padding:6px;"><strong>One-Time</strong></td><td>$${(data.pricing?.oneTime || 0).toFixed(2)}</td></tr>
+          </table>
 
-      <h3>Property</h3>
-      <p><strong>Same as Contact:</strong> ${
-        data.property?.sameAsContact ? "Yes" : "No"
-      }</p>
-      <p><strong>Name:</strong> ${data.property?.name || "—"}</p>
-      <p><strong>Email:</strong> ${data.property?.email || "—"}</p>
-      <p><strong>Phone:</strong> ${data.property?.phone || "—"}</p>
-    `;
+          <h3 style="margin:20px 0 10px; color:#e63946; font-size:16px;">Install</h3>
+          <table style="width:100%; border-collapse:collapse;">
+            <tr><td style="padding:6px; width:200px;"><strong>Type</strong></td><td>${data.install?.type || "—"}</td></tr>
+            <tr><td style="padding:6px;"><strong>Recipient</strong></td><td>${data.install?.recipientFirst || ""} ${data.install?.recipientLast || ""}</td></tr>
+          </table>
+
+          <h3 style="margin:20px 0 10px; color:#e63946; font-size:16px;">Property</h3>
+          <table style="width:100%; border-collapse:collapse;">
+            <tr><td style="padding:6px; width:200px;"><strong>Same as Contact</strong></td><td>${data.property?.sameAsContact ? "Yes" : "No"}</td></tr>
+            <tr><td style="padding:6px;"><strong>Name</strong></td><td>${data.property?.name || "—"}</td></tr>
+            <tr><td style="padding:6px;"><strong>Email</strong></td><td>${data.property?.email || "—"}</td></tr>
+            <tr><td style="padding:6px;"><strong>Phone</strong></td><td>${data.property?.phone || "—"}</td></tr>
+          </table>
+        </td>
+      </tr>
+      <tr>
+        <td style="background:#fde8e8; text-align:center; padding:15px; font-size:12px; color:#666;">
+          © ${new Date().getFullYear()} ZenithLink. All rights reserved.
+        </td>
+      </tr>
+    </table>
+  </div>
+`;
+
+
 
     // Email to Admin
       const adminMail = {
